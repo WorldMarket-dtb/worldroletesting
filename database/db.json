@@ -7,10 +7,10 @@
       "username": "worldmarketvip",
       "role": "owner",
       "tokenQuota": 8,
-      "tokensUsed": 1,
-      "tokensAvailable": 7,
+      "tokensUsed": 2,
+      "tokensAvailable": 6,
       "createdAt": "2026-04-01T17:53:36.601Z",
-      "updatedAt": "2026-04-01T19:01:48.578Z"
+      "updatedAt": "2026-04-01T19:01:49.270Z"
     }
   },
   "botTokens": {
@@ -23,6 +23,17 @@
       "status": "active",
       "createdAt": "2026-04-01T18:45:17.017Z",
       "updatedAt": "2026-04-01T18:45:17.017Z",
+      "reportCount": 0
+    },
+    "tok_1775070109270_h2cy9o": {
+      "id": "tok_1775070109270_h2cy9o",
+      "token": "8696707904:AAGeGhD2wSG1iXlJvtWI3pYbYsf-yFw1OqE",
+      "ownerId": 1869797810,
+      "ownerUsername": "worldmarketvip",
+      "ownerRole": "owner",
+      "status": "active",
+      "createdAt": "2026-04-01T19:01:49.270Z",
+      "updatedAt": "2026-04-01T19:01:49.270Z",
       "reportCount": 0
     }
   },
@@ -172,7 +183,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-01T19:01:48.578Z",
+    "updatedAt": "2026-04-01T19:01:49.270Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
