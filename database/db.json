@@ -1,0 +1,105 @@
+{
+  "users": {},
+  "botTokens": {},
+  "buyerRequests": {},
+  "reports": [],
+  "roleCatalog": {
+    "full_up": {
+      "label": "FULL UP",
+      "quota": 1,
+      "groups": [
+        {
+          "name": "FULLUP - Full Up otax",
+          "link": "https://t.me/ganti_link_fullup"
+        }
+      ]
+    },
+    "reseller": {
+      "label": "RESSELER",
+      "quota": 3,
+      "groups": [
+        {
+          "name": "FULLUP - Full Up otax",
+          "link": "https://t.me/ganti_link_fullup"
+        },
+        {
+          "name": "RESELLER - Reseller otax",
+          "link": "https://t.me/ganti_link_reseller"
+        }
+      ]
+    },
+    "partner": {
+      "label": "PARTNER",
+      "quota": 4,
+      "groups": [
+        {
+          "name": "FULLUP - Full Up otax",
+          "link": "https://t.me/ganti_link_fullup"
+        },
+        {
+          "name": "RESELLER - Reseller otax",
+          "link": "https://t.me/ganti_link_reseller"
+        },
+        {
+          "name": "PT - Partner otax",
+          "link": "https://t.me/ganti_link_partner"
+        }
+      ]
+    },
+    "tk": {
+      "label": "TANGAN KANAN",
+      "quota": 5,
+      "groups": [
+        {
+          "name": "FULLUP - Full Up otax",
+          "link": "https://t.me/ganti_link_fullup"
+        },
+        {
+          "name": "RESELLER - Reseller otax",
+          "link": "https://t.me/ganti_link_reseller"
+        },
+        {
+          "name": "PT - Partner otax",
+          "link": "https://t.me/ganti_link_partner"
+        },
+        {
+          "name": "TK - Tangan Kanan otax",
+          "link": "https://t.me/ganti_link_tk"
+        }
+      ]
+    },
+    "owner": {
+      "label": "OWNER",
+      "quota": 8,
+      "groups": [
+        {
+          "name": "FULLUP - Full Up otax",
+          "link": "https://t.me/ganti_link_fullup"
+        },
+        {
+          "name": "RESELLER - Reseller otax",
+          "link": "https://t.me/ganti_link_reseller"
+        },
+        {
+          "name": "PT - Partner otax",
+          "link": "https://t.me/ganti_link_partner"
+        },
+        {
+          "name": "TK - Tangan Kanan otax",
+          "link": "https://t.me/ganti_link_tk"
+        },
+        {
+          "name": "OWNER - Owner otax",
+          "link": "https://t.me/ganti_link_owner"
+        }
+      ]
+    }
+  },
+  "meta": {
+    "createdAt": "2026-04-01T17:53:06.984Z",
+    "updatedAt": "2026-04-01T17:53:06.984Z",
+    "autoInitialized": true,
+    "repo": "WorldMarket-dtb/worldroletesting",
+    "dbPath": "database/db.json"
+  }
+}
