@@ -5,12 +5,12 @@
       "firstName": "世界 || 𝙒𝙤𝙧𝙡𝙙 𝙈𝙖𝙧𝙠𝙚𝙩 [ OPEN ]",
       "lastName": "",
       "username": "worldmarketvip",
-      "role": null,
-      "tokenQuota": 0,
+      "role": "owner",
+      "tokenQuota": 8,
       "tokensUsed": 0,
-      "tokensAvailable": 0,
+      "tokensAvailable": 8,
       "createdAt": "2026-04-01T17:53:36.601Z",
-      "updatedAt": "2026-04-01T18:15:13.690Z"
+      "updatedAt": "2026-04-01T18:40:03.940Z"
     }
   },
   "botTokens": {},
@@ -128,7 +128,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-01T18:15:13.690Z",
+    "updatedAt": "2026-04-01T18:40:03.941Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
