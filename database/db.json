@@ -14,7 +14,21 @@
     }
   },
   "botTokens": {},
-  "buyerRequests": {},
+  "buyerRequests": {
+    "1775066232476": {
+      "id": "1775066232476",
+      "requesterId": 1869797810,
+      "requesterUsername": "worldmarketvip",
+      "role": "full_up",
+      "buyerUsername": "anjayyyyy",
+      "requestedPeriod": "permanent",
+      "photoFileId": "AgACAgIAAxkBAANNac1cZqecG46fb7AiNxNgeQTZMJkAAnIcaxschWlK1PIl6ShHSAABAQADAgADeQADOgQ",
+      "caption": "",
+      "status": "pending",
+      "createdAt": "2026-04-01T17:57:12.677Z",
+      "updatedAt": "2026-04-01T17:57:12.677Z"
+    }
+  },
   "reports": [],
   "roleCatalog": {
     "full_up": {
@@ -110,7 +124,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-01T17:57:06.363Z",
+    "updatedAt": "2026-04-01T17:57:12.677Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
