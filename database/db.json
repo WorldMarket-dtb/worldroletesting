@@ -53,9 +53,11 @@
       "requestedPeriod": "permanent",
       "photoFileId": "AgACAgIAAxkBAAMKac1nsoC2Oa7FhewZV4UNbb72C7sAAqcUaxt0nXFKhGTIpuPmzAUBAAMCAAN5AAM6BA",
       "caption": "",
-      "status": "pending",
+      "status": "rejected",
       "createdAt": "2026-04-01T18:45:33.105Z",
-      "updatedAt": "2026-04-01T18:45:33.105Z"
+      "updatedAt": "2026-04-01T18:45:51.653Z",
+      "rejectedBy": 1869797810,
+      "rejectedByUsername": "worldmarketvip"
     }
   },
   "reports": [],
@@ -153,7 +155,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-01T18:45:33.105Z",
+    "updatedAt": "2026-04-01T18:45:51.653Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
