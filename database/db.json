@@ -1571,6 +1571,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-02T12:28:11.919Z",
       "updatedAt": "2026-04-02T12:28:20.805Z"
+    },
+    "7305413658": {
+      "id": 7305413658,
+      "firstName": "̶M̶a̶n̶z̶z̶y̶ ✧",
+      "lastName": "ㅤ",
+      "username": "",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-02T12:28:53.471Z",
+      "updatedAt": "2026-04-02T12:28:53.471Z"
     }
   },
   "botTokens": {
@@ -2066,7 +2078,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-02T12:28:51.809Z",
+    "updatedAt": "2026-04-02T12:28:53.471Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
