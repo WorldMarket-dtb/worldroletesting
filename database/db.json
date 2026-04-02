@@ -503,6 +503,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-02T09:42:58.360Z",
       "updatedAt": "2026-04-02T09:42:58.360Z"
+    },
+    "8256619463": {
+      "id": 8256619463,
+      "firstName": "ⱠɆ₳₭ ₦ł₵Ⱨ",
+      "lastName": "",
+      "username": "leakcuy",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-02T09:43:31.287Z",
+      "updatedAt": "2026-04-02T09:43:31.287Z"
     }
   },
   "botTokens": {
@@ -836,7 +848,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-02T09:43:30.372Z",
+    "updatedAt": "2026-04-02T09:43:31.288Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
