@@ -227,6 +227,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-02T09:12:25.708Z",
       "updatedAt": "2026-04-02T09:12:25.708Z"
+    },
+    "8319519632": {
+      "id": 8319519632,
+      "firstName": "#𝗭𝗿𝗶𝗹𝗹𝗖𝗼𝗱𝗲",
+      "lastName": "",
+      "username": "zrillofficial",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-02T09:12:29.610Z",
+      "updatedAt": "2026-04-02T09:12:29.610Z"
     }
   },
   "botTokens": {
@@ -511,7 +523,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-02T09:12:25.708Z",
+    "updatedAt": "2026-04-02T09:12:29.610Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
