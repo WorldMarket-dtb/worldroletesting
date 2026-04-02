@@ -623,6 +623,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-02T09:45:53.077Z",
       "updatedAt": "2026-04-02T09:45:53.077Z"
+    },
+    "6948358913": {
+      "id": 6948358913,
+      "firstName": "DiRez Store",
+      "lastName": "",
+      "username": "DiRezStore213z",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-02T09:46:25.589Z",
+      "updatedAt": "2026-04-02T09:46:25.589Z"
     }
   },
   "botTokens": {
@@ -956,7 +968,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-02T09:46:24.746Z",
+    "updatedAt": "2026-04-02T09:46:25.589Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
