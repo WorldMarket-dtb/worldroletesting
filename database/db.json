@@ -845,12 +845,12 @@
       "firstName": "Whisper ིྀ#.pdf",
       "lastName": "",
       "username": "XtremeRam2",
-      "role": null,
-      "tokenQuota": 0,
+      "role": "owner",
+      "tokenQuota": 8,
       "tokensUsed": 0,
-      "tokensAvailable": 0,
+      "tokensAvailable": 8,
       "createdAt": "2026-04-02T10:00:45.892Z",
-      "updatedAt": "2026-04-02T10:21:24.316Z"
+      "updatedAt": "2026-04-02T10:22:11.282Z"
     },
     "7500793037": {
       "id": 7500793037,
@@ -1683,7 +1683,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-02T10:22:04.103Z",
+    "updatedAt": "2026-04-02T10:22:11.282Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
