@@ -887,6 +887,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-02T10:02:46.606Z",
       "updatedAt": "2026-04-02T10:02:46.606Z"
+    },
+    "8547961012": {
+      "id": 8547961012,
+      "firstName": "⏤͟͟͞͞ 𝐈𝐌𝐒𝐒𝐒𝐎𝐅𝐅𝐂",
+      "lastName": "𝐍𝐨𝐭 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫",
+      "username": "ImssOfficialNot",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-02T10:03:09.896Z",
+      "updatedAt": "2026-04-02T10:03:09.896Z"
     }
   },
   "botTokens": {
@@ -1254,7 +1266,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-02T10:03:08.706Z",
+    "updatedAt": "2026-04-02T10:03:09.896Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
