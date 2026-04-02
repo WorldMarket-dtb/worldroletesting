@@ -755,6 +755,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-02T09:58:13.110Z",
       "updatedAt": "2026-04-02T09:58:41.587Z"
+    },
+    "8652433252": {
+      "id": 8652433252,
+      "firstName": "Adnan",
+      "lastName": "",
+      "username": "Adnanganteng87",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-02T09:58:49.619Z",
+      "updatedAt": "2026-04-02T09:58:49.619Z"
     }
   },
   "botTokens": {
@@ -1105,7 +1117,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-02T09:58:41.587Z",
+    "updatedAt": "2026-04-02T09:58:49.619Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
