@@ -1643,6 +1643,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-02T12:29:50.709Z",
       "updatedAt": "2026-04-02T12:29:50.709Z"
+    },
+    "8455462168": {
+      "id": 8455462168,
+      "firstName": "ᯓ𝐃𝐎𝐂 || TARZZSTORE",
+      "lastName": "",
+      "username": "tarzz001",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-02T12:30:54.858Z",
+      "updatedAt": "2026-04-02T12:30:54.858Z"
     }
   },
   "botTokens": {
@@ -2138,7 +2150,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-02T12:30:52.315Z",
+    "updatedAt": "2026-04-02T12:30:54.858Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
