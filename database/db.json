@@ -658,6 +658,19 @@
       "approvedByUsername": "worldmarketvip",
       "finalPeriod": "permanent",
       "expiresAt": null
+    },
+    "1775122930308": {
+      "id": "1775122930308",
+      "requesterId": 1869797810,
+      "requesterUsername": "worldmarketvip",
+      "role": "tk",
+      "buyerUsername": "testingkontol",
+      "requestedPeriod": "permanent",
+      "photoFileId": "AgACAgIAAxkBAAOnac4zUmectT5x-xw73DX-HBfDi_QAAhcVaxuwA3FKyRBv1oZMB0QBAAMCAAN5AAM6BA",
+      "caption": "",
+      "status": "pending",
+      "createdAt": "2026-04-02T09:42:10.592Z",
+      "updatedAt": "2026-04-02T09:42:10.592Z"
     }
   },
   "reports": [
@@ -783,7 +796,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-02T09:42:09.615Z",
+    "updatedAt": "2026-04-02T09:42:10.592Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
