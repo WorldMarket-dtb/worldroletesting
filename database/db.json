@@ -1379,6 +1379,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-02T10:28:17.376Z",
       "updatedAt": "2026-04-02T10:28:54.374Z"
+    },
+    "7664592948": {
+      "id": 7664592948,
+      "firstName": "Kenn ¿",
+      "lastName": "",
+      "username": "kinzyXyzo",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-02T10:30:40.100Z",
+      "updatedAt": "2026-04-02T10:30:40.100Z"
     }
   },
   "botTokens": {
@@ -1874,7 +1886,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-02T10:30:36.943Z",
+    "updatedAt": "2026-04-02T10:30:40.100Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
