@@ -1943,6 +1943,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-02T12:42:01.876Z",
       "updatedAt": "2026-04-02T12:42:01.876Z"
+    },
+    "7908017168": {
+      "id": 7908017168,
+      "firstName": "𝙊𝙈 𝘿𝙃𝘼𝙉 𝙂𝘼𝙉𝙏𝙀𝙉𝙆 || 𝟴𝟬",
+      "lastName": "",
+      "username": "OomDhan",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-02T12:42:20.413Z",
+      "updatedAt": "2026-04-02T12:42:20.413Z"
     }
   },
   "botTokens": {
@@ -2438,7 +2450,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-02T12:42:18.183Z",
+    "updatedAt": "2026-04-02T12:42:20.413Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
