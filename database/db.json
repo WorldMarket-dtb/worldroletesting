@@ -180,6 +180,18 @@
       "createdAt": "2026-04-02T09:14:11.122Z",
       "updatedAt": "2026-04-02T09:39:39.347Z"
     },
+    "1961822452": {
+      "id": 1961822452,
+      "firstName": "Shiki Jembod",
+      "lastName": "",
+      "username": "TuanShiki",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-02T12:40:33.082Z",
+      "updatedAt": "2026-04-02T12:40:33.083Z"
+    },
     "2078725867": {
       "id": 2078725867,
       "firstName": "meunzy",
@@ -2390,7 +2402,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-02T12:40:31.709Z",
+    "updatedAt": "2026-04-02T12:40:33.083Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
