@@ -1667,6 +1667,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-02T12:31:23.674Z",
       "updatedAt": "2026-04-02T12:31:23.674Z"
+    },
+    "8232946735": {
+      "id": 8232946735,
+      "firstName": "Dev ril Dev epep",
+      "lastName": "",
+      "username": "ytdevaoffc",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-02T12:31:37.853Z",
+      "updatedAt": "2026-04-02T12:31:37.853Z"
     }
   },
   "botTokens": {
@@ -2162,7 +2174,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-02T12:31:36.445Z",
+    "updatedAt": "2026-04-02T12:31:37.853Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
