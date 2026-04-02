@@ -1127,6 +1127,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-02T10:12:49.695Z",
       "updatedAt": "2026-04-02T10:15:05.244Z"
+    },
+    "7511111586": {
+      "id": 7511111586,
+      "firstName": "— 𝘾𝙝𝙖𝙮𝙧𝙖҆︕︕",
+      "lastName": "",
+      "username": "inichayra",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-02T10:16:04.433Z",
+      "updatedAt": "2026-04-02T10:16:04.433Z"
     }
   },
   "botTokens": {
@@ -1539,7 +1551,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-02T10:15:05.245Z",
+    "updatedAt": "2026-04-02T10:16:04.433Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
