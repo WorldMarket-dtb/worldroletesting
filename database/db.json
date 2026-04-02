@@ -635,6 +635,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-02T09:46:25.589Z",
       "updatedAt": "2026-04-02T09:46:25.589Z"
+    },
+    "8622855570": {
+      "id": 8622855570,
+      "firstName": "Nanz",
+      "lastName": "shop",
+      "username": "Nanzshop006",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-02T09:46:37.706Z",
+      "updatedAt": "2026-04-02T09:46:37.706Z"
     }
   },
   "botTokens": {
@@ -968,7 +980,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-02T09:46:25.589Z",
+    "updatedAt": "2026-04-02T09:46:37.706Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
