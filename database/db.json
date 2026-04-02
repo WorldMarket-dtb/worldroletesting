@@ -36,6 +36,18 @@
       "createdAt": "2026-04-02T06:46:53.165Z",
       "updatedAt": "2026-04-02T10:59:40.591Z"
     },
+    "1090546555": {
+      "id": 1090546555,
+      "firstName": "Rillantigone",
+      "lastName": "",
+      "username": "Rillantigonee",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-02T12:30:49.483Z",
+      "updatedAt": "2026-04-02T12:30:49.483Z"
+    },
     "1225393194": {
       "id": 1225393194,
       "firstName": "RAJA",
@@ -2126,7 +2138,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-02T12:30:47.614Z",
+    "updatedAt": "2026-04-02T12:30:49.483Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
