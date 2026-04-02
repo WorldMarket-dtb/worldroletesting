@@ -1991,6 +1991,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-02T12:43:12.611Z",
       "updatedAt": "2026-04-02T12:43:12.611Z"
+    },
+    "8771885231": {
+      "id": 8771885231,
+      "firstName": "Myy",
+      "lastName": "Sturr",
+      "username": "myystur",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-02T12:43:13.963Z",
+      "updatedAt": "2026-04-02T12:43:13.963Z"
     }
   },
   "botTokens": {
@@ -2486,7 +2498,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-02T12:43:12.611Z",
+    "updatedAt": "2026-04-02T12:43:13.963Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
