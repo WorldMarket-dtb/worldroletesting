@@ -1847,6 +1847,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-02T12:37:16.333Z",
       "updatedAt": "2026-04-02T12:37:16.333Z"
+    },
+    "8356793632": {
+      "id": 8356793632,
+      "firstName": "Yanzz",
+      "lastName": "",
+      "username": "Yanzzsya",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-02T12:38:00.111Z",
+      "updatedAt": "2026-04-02T12:38:00.111Z"
     }
   },
   "botTokens": {
@@ -2342,7 +2354,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-02T12:37:58.616Z",
+    "updatedAt": "2026-04-02T12:38:00.111Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
