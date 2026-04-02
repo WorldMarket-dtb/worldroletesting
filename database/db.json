@@ -479,6 +479,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-02T09:42:25.102Z",
       "updatedAt": "2026-04-02T09:42:25.102Z"
+    },
+    "8433742057": {
+      "id": 8433742057,
+      "firstName": "https://lynk.id/kikxfalaba",
+      "lastName": "https://whatsapp.com/channel/0029VbCAYBG77qVO1QdOUt1B",
+      "username": "Kikxfalaba",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-02T09:42:29.318Z",
+      "updatedAt": "2026-04-02T09:42:29.318Z"
     }
   },
   "botTokens": {
@@ -808,7 +820,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-02T09:42:25.888Z",
+    "updatedAt": "2026-04-02T09:42:29.318Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
