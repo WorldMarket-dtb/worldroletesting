@@ -1721,11 +1721,22 @@
       "caption": "",
       "status": "approved",
       "createdAt": "2026-04-02T10:27:27.198Z",
-      "updatedAt": "2026-04-02T10:27:44.432Z",
+      "updatedAt": "2026-04-02T10:27:45.618Z",
       "approvedBy": 7912689350,
       "approvedByUsername": "ungkeeeeee",
       "finalPeriod": "permanent",
-      "expiresAt": null
+      "expiresAt": null,
+      "inviteLinks": [
+        {
+          "role": "full_up",
+          "groupName": "FULLUP - Full Up otax",
+          "chatId": -1003847993974,
+          "inviteLink": "https://t.me/+-D3BUkNlpGNlY2M9",
+          "status": "active",
+          "createdAt": "2026-04-02T10:27:45.348Z",
+          "expiresAt": null
+        }
+      ]
     }
   },
   "reports": [
@@ -1851,7 +1862,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-02T10:27:44.432Z",
+    "updatedAt": "2026-04-02T10:27:45.618Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
@@ -1907,6 +1918,19 @@
       "inviteLink": "https://t.me/+xvkn2101HFkyZWJl",
       "status": "active",
       "createdAt": "2026-04-02T10:25:34.577Z",
+      "expiresAt": null
+    },
+    "https://t.me/+-D3BUkNlpGNlY2M9": {
+      "requestId": "1775125646794",
+      "requesterId": 7912689350,
+      "requesterUsername": "ungkeeeeee",
+      "buyerUsername": "xenzlow",
+      "role": "full_up",
+      "groupName": "FULLUP - Full Up otax",
+      "chatId": -1003847993974,
+      "inviteLink": "https://t.me/+-D3BUkNlpGNlY2M9",
+      "status": "active",
+      "createdAt": "2026-04-02T10:27:45.348Z",
       "expiresAt": null
     }
   }
