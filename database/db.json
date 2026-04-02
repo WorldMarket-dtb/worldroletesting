@@ -1955,6 +1955,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-02T12:42:20.413Z",
       "updatedAt": "2026-04-02T12:42:20.413Z"
+    },
+    "7920804543": {
+      "id": 7920804543,
+      "firstName": "𝐑𝐮𝐥𝐳𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥",
+      "lastName": "",
+      "username": "rulzoffc",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-02T12:42:29.151Z",
+      "updatedAt": "2026-04-02T12:42:29.151Z"
     }
   },
   "botTokens": {
@@ -2450,7 +2462,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-02T12:42:27.539Z",
+    "updatedAt": "2026-04-02T12:42:29.151Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
