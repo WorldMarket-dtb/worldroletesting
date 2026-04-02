@@ -35,6 +35,18 @@
       "tokensAvailable": 8,
       "createdAt": "2026-04-01T17:53:36.601Z",
       "updatedAt": "2026-04-02T09:07:30.373Z"
+    },
+    "7912689350": {
+      "id": 7912689350,
+      "firstName": "𝐮𝐧𝐠𝐤𝐞𝐞𝐞",
+      "lastName": "",
+      "username": "ungkeeeeee",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-02T09:09:13.265Z",
+      "updatedAt": "2026-04-02T09:09:13.265Z"
     }
   },
   "botTokens": {
@@ -319,7 +331,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-02T09:07:30.373Z",
+    "updatedAt": "2026-04-02T09:09:13.265Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
