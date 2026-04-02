@@ -407,6 +407,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-02T09:40:44.990Z",
       "updatedAt": "2026-04-02T09:40:44.990Z"
+    },
+    "7449727629": {
+      "id": 7449727629,
+      "firstName": "𝑹𝒊𝒆𝒍𝑪𝒆𝒐𝒃𝒖𝒈",
+      "lastName": "[𝐨𝐩𝐞𝐧 𝐮𝐛𝐨𝐭 𝐩𝐫𝐞𝐦]",
+      "username": "Rielofiicial",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-02T09:41:17.082Z",
+      "updatedAt": "2026-04-02T09:41:17.082Z"
     }
   },
   "botTokens": {
@@ -723,7 +735,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-02T09:41:03.893Z",
+    "updatedAt": "2026-04-02T09:41:17.082Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
