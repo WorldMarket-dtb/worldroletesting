@@ -1175,6 +1175,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-02T10:17:52.373Z",
       "updatedAt": "2026-04-02T10:17:52.373Z"
+    },
+    "7822513730": {
+      "id": 7822513730,
+      "firstName": "¡ᴍ # 𝐗𝐞𝐫𝐨𝐳𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥𝐥",
+      "lastName": "",
+      "username": "XerozOfficial",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-02T10:18:12.505Z",
+      "updatedAt": "2026-04-02T10:18:12.505Z"
     }
   },
   "botTokens": {
@@ -1587,7 +1599,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-02T10:17:57.506Z",
+    "updatedAt": "2026-04-02T10:18:12.505Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
