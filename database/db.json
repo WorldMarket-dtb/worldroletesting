@@ -1625,12 +1625,12 @@
       "firstName": "huy",
       "lastName": "",
       "username": "uhuystore149",
-      "role": null,
-      "tokenQuota": 0,
+      "role": "tk",
+      "tokenQuota": 5,
       "tokensUsed": 0,
-      "tokensAvailable": 0,
+      "tokensAvailable": 5,
       "createdAt": "2026-04-02T12:29:20.190Z",
-      "updatedAt": "2026-04-02T12:33:33.187Z"
+      "updatedAt": "2026-04-02T12:35:52.945Z"
     },
     "8369377428": {
       "id": 8369377428,
@@ -2246,7 +2246,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-02T12:35:51.558Z",
+    "updatedAt": "2026-04-02T12:35:52.945Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
