@@ -707,6 +707,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-02T09:56:13.243Z",
       "updatedAt": "2026-04-02T09:56:13.243Z"
+    },
+    "7154586017": {
+      "id": 7154586017,
+      "firstName": "Rar",
+      "lastName": "Ror",
+      "username": "Pianzmoderawr",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-02T09:56:32.636Z",
+      "updatedAt": "2026-04-02T09:56:32.636Z"
     }
   },
   "botTokens": {
@@ -1040,7 +1052,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-02T09:56:31.085Z",
+    "updatedAt": "2026-04-02T09:56:32.636Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
