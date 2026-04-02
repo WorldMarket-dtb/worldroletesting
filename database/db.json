@@ -695,6 +695,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-02T09:48:18.160Z",
       "updatedAt": "2026-04-02T09:48:18.160Z"
+    },
+    "7543657483": {
+      "id": 7543657483,
+      "firstName": "⏤͟͟͞͞𝗫𝗶𝗻𝗴 || 𝑻𝑹𝑨𝑿𝑯𝒆𝒓𝒍𝒂𝒏𝒈𝒈𝒂",
+      "lastName": "",
+      "username": "herlanggaror",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-02T09:56:13.243Z",
+      "updatedAt": "2026-04-02T09:56:13.243Z"
     }
   },
   "botTokens": {
@@ -1028,7 +1040,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-02T09:56:04.976Z",
+    "updatedAt": "2026-04-02T09:56:13.243Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
