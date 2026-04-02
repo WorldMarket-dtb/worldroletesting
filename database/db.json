@@ -851,6 +851,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-02T10:01:55.855Z",
       "updatedAt": "2026-04-02T10:01:55.855Z"
+    },
+    "8475343650": {
+      "id": 8475343650,
+      "firstName": "⏤͟͟͞͞ 𝗧͢𝗿𝗶𝗽͜𝗹𝗲 𝗫 ☇ SANZZ",
+      "lastName": "",
+      "username": "sanzkece",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-02T10:01:59.060Z",
+      "updatedAt": "2026-04-02T10:01:59.060Z"
     }
   },
   "botTokens": {
@@ -1218,7 +1230,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-02T10:01:57.522Z",
+    "updatedAt": "2026-04-02T10:01:59.060Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
