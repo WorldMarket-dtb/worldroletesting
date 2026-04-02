@@ -347,6 +347,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-02T09:14:49.645Z",
       "updatedAt": "2026-04-02T09:14:49.645Z"
+    },
+    "8358478736": {
+      "id": 8358478736,
+      "firstName": "𝐁𝐀𝐑𝐎𝐍𝐆𝐊𝐎",
+      "lastName": "",
+      "username": "iqbalbriyanz",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-02T09:40:14.620Z",
+      "updatedAt": "2026-04-02T09:40:14.620Z"
     }
   },
   "botTokens": {
@@ -663,7 +675,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-02T09:40:09.746Z",
+    "updatedAt": "2026-04-02T09:40:14.621Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
