@@ -1826,15 +1826,15 @@
     },
     "5934905483": {
       "id": 5934905483,
-      "firstName": "☇ 𝙍⃨𝙮⃨𝙯⃨𝙚⃨𝙣⃨𝙓⃨",
+      "firstName": "☇ xBoyzz",
       "lastName": "",
-      "username": "RyzenX888",
+      "username": "BoyzzX888",
       "role": null,
       "tokenQuota": 0,
       "tokensUsed": 0,
       "tokensAvailable": 0,
       "createdAt": "2026-04-02T12:36:12.093Z",
-      "updatedAt": "2026-04-02T12:59:47.011Z"
+      "updatedAt": "2026-04-02T12:59:51.429Z"
     },
     "7632742875": {
       "id": 7632742875,
@@ -2642,7 +2642,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-02T12:59:49.665Z",
+    "updatedAt": "2026-04-02T12:59:51.429Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
