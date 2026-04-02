@@ -1511,6 +1511,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-02T10:36:49.970Z",
       "updatedAt": "2026-04-02T10:36:49.970Z"
+    },
+    "7707361182": {
+      "id": 7707361182,
+      "firstName": "今 𝗫𝗜𝗗℻ |⏤͟͟͞͞𝗩𝗶𝗻𝗼_𝗦𝘁𝗼𝗿𝗲⩇⩇:⩇⩇ 𒁍Redy Vps ✘\"𒆜𒀱",
+      "lastName": "",
+      "username": "VINO_STORE00",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-02T10:37:34.141Z",
+      "updatedAt": "2026-04-02T10:37:34.141Z"
     }
   },
   "botTokens": {
@@ -2006,7 +2018,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-02T10:37:23.685Z",
+    "updatedAt": "2026-04-02T10:37:34.141Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
