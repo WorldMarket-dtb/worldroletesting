@@ -60,6 +60,18 @@
       "createdAt": "2026-04-01T17:53:36.601Z",
       "updatedAt": "2026-04-02T09:14:02.150Z"
     },
+    "1893372490": {
+      "id": 1893372490,
+      "firstName": "𝑷𝒓𝒊𝒏𝒄𝒆 𝑵𝒊𝒐𝒓 [ 𝘾𝙀𝙊 𝘼𝙋𝙆 𝘽𝙐𝙂 ]",
+      "lastName": "",
+      "username": "niorniehhhh",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-02T09:14:11.122Z",
+      "updatedAt": "2026-04-02T09:14:11.122Z"
+    },
     "2078725867": {
       "id": 2078725867,
       "firstName": "meunzy",
@@ -627,7 +639,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-02T09:14:10.133Z",
+    "updatedAt": "2026-04-02T09:14:11.122Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
