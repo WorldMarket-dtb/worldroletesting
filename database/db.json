@@ -2111,6 +2111,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-02T12:58:21.589Z",
       "updatedAt": "2026-04-02T12:58:21.589Z"
+    },
+    "8412725781": {
+      "id": 8412725781,
+      "firstName": "𝗞𝗛𝗔",
+      "lastName": "",
+      "username": "khazaa_imups",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-02T12:58:26.394Z",
+      "updatedAt": "2026-04-02T12:58:26.394Z"
     }
   },
   "botTokens": {
@@ -2606,7 +2618,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-02T12:58:23.642Z",
+    "updatedAt": "2026-04-02T12:58:26.394Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
