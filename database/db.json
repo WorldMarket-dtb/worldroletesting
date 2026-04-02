@@ -1697,12 +1697,12 @@
       "firstName": "⏤͟͟͞͞ 𝗧͢𝗿𝗶𝗽͢𝗹𝗲 𝗫 || ༺Ẕ𝙖𝙠𝘳ﺂšš༻",
       "lastName": "",
       "username": "Zakriss",
-      "role": null,
-      "tokenQuota": 0,
+      "role": "owner",
+      "tokenQuota": 8,
       "tokensUsed": 0,
-      "tokensAvailable": 0,
+      "tokensAvailable": 8,
       "createdAt": "2026-04-02T12:34:57.045Z",
-      "updatedAt": "2026-04-02T12:38:10.251Z"
+      "updatedAt": "2026-04-02T12:39:07.117Z"
     },
     "6320222759": {
       "id": 6320222759,
@@ -2366,7 +2366,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-02T12:39:06.003Z",
+    "updatedAt": "2026-04-02T12:39:07.117Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
