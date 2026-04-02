@@ -1283,6 +1283,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-02T10:23:16.504Z",
       "updatedAt": "2026-04-02T10:23:16.504Z"
+    },
+    "8268663856": {
+      "id": 8268663856,
+      "firstName": "Sekaiirii",
+      "lastName": "",
+      "username": "Sekaiirii",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-02T10:23:38.882Z",
+      "updatedAt": "2026-04-02T10:23:38.882Z"
     }
   },
   "botTokens": {
@@ -1695,7 +1707,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-02T10:23:16.504Z",
+    "updatedAt": "2026-04-02T10:23:38.882Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
