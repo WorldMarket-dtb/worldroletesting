@@ -935,6 +935,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-02T10:04:15.563Z",
       "updatedAt": "2026-04-02T10:05:11.718Z"
+    },
+    "5559800206": {
+      "id": 5559800206,
+      "firstName": "제즈프리아솔로",
+      "lastName": "",
+      "username": "Xwyskontol",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-02T10:05:16.195Z",
+      "updatedAt": "2026-04-02T10:05:16.195Z"
     }
   },
   "botTokens": {
@@ -1319,7 +1331,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-02T10:05:13.340Z",
+    "updatedAt": "2026-04-02T10:05:16.195Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
