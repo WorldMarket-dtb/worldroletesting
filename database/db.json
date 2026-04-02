@@ -1733,12 +1733,12 @@
       "firstName": "¡𝐦 #𝐭𝐫𝐢𝐬𝐭𝐚𝐧𝐚𝐥𝐰𝐚𝐲𝐬",
       "lastName": "",
       "username": "tristanalways",
-      "role": null,
-      "tokenQuota": 0,
+      "role": "owner",
+      "tokenQuota": 8,
       "tokensUsed": 0,
-      "tokensAvailable": 0,
+      "tokensAvailable": 8,
       "createdAt": "2026-04-02T12:35:35.166Z",
-      "updatedAt": "2026-04-02T12:35:49.549Z"
+      "updatedAt": "2026-04-02T12:36:33.165Z"
     },
     "8376951073": {
       "id": 8376951073,
@@ -2294,7 +2294,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-02T12:36:31.154Z",
+    "updatedAt": "2026-04-02T12:36:33.165Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
