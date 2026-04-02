@@ -1499,6 +1499,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-02T10:36:41.427Z",
       "updatedAt": "2026-04-02T10:36:41.427Z"
+    },
+    "7417348867": {
+      "id": 7417348867,
+      "firstName": "⏤͟͟͞͞𝘿𝙞𝙡𝙭𝙯͢𝙯 [ OPEN ]",
+      "lastName": "",
+      "username": "DilxzzY2",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-02T10:36:49.970Z",
+      "updatedAt": "2026-04-02T10:36:49.970Z"
     }
   },
   "botTokens": {
@@ -1994,7 +2006,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-02T10:36:48.771Z",
+    "updatedAt": "2026-04-02T10:36:49.971Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
