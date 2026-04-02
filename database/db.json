@@ -1775,6 +1775,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-02T12:36:08.412Z",
       "updatedAt": "2026-04-02T12:36:08.412Z"
+    },
+    "8449317355": {
+      "id": 8449317355,
+      "firstName": "𝐋𝐮𝐥𝐳𝐳",
+      "lastName": "",
+      "username": "lulzback",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-02T12:36:09.982Z",
+      "updatedAt": "2026-04-02T12:36:09.982Z"
     }
   },
   "botTokens": {
@@ -2270,7 +2282,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-02T12:36:08.412Z",
+    "updatedAt": "2026-04-02T12:36:09.982Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
