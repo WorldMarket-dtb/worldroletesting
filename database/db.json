@@ -599,6 +599,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-02T09:45:07.241Z",
       "updatedAt": "2026-04-02T09:45:07.241Z"
+    },
+    "7351008665": {
+      "id": 7351008665,
+      "firstName": "¡m #𝑰𝒏𝒅𝒓𝒚𝒚'𝒔 | 亗 |",
+      "lastName": "",
+      "username": "indryysy",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-02T09:45:15.561Z",
+      "updatedAt": "2026-04-02T09:45:15.561Z"
     }
   },
   "botTokens": {
@@ -932,7 +944,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-02T09:45:14.443Z",
+    "updatedAt": "2026-04-02T09:45:15.561Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
