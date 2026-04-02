@@ -335,6 +335,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-02T09:14:21.115Z",
       "updatedAt": "2026-04-02T09:14:41.421Z"
+    },
+    "8367724279": {
+      "id": 8367724279,
+      "firstName": "⏤͟͟͞ᥣãᥣã ᥱ᥎ᥱᥣᥡᥒ! ˗ˋˏ♡ˎˊ˗",
+      "lastName": "",
+      "username": "Adekcina",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-02T09:14:49.645Z",
+      "updatedAt": "2026-04-02T09:14:49.645Z"
     }
   },
   "botTokens": {
@@ -651,7 +663,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-02T09:14:42.043Z",
+    "updatedAt": "2026-04-02T09:14:49.645Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
