@@ -820,9 +820,10 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-02T09:42:38.843Z",
+    "updatedAt": "2026-04-02T09:42:39.628Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
-  }
+  },
+  "buyerInvites": {}
 }
