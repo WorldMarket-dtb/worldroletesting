@@ -1619,6 +1619,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-02T12:29:43.993Z",
       "updatedAt": "2026-04-02T12:29:43.993Z"
+    },
+    "7836286358": {
+      "id": 7836286358,
+      "firstName": "drak",
+      "lastName": "",
+      "username": "DAFXMEGUMI",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-02T12:29:50.709Z",
+      "updatedAt": "2026-04-02T12:29:50.709Z"
     }
   },
   "botTokens": {
@@ -2114,7 +2126,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-02T12:29:47.563Z",
+    "updatedAt": "2026-04-02T12:29:50.709Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
