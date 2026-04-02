@@ -2099,6 +2099,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-02T12:58:14.553Z",
       "updatedAt": "2026-04-02T12:58:14.553Z"
+    },
+    "6690676512": {
+      "id": 6690676512,
+      "firstName": "sanxx",
+      "lastName": "",
+      "username": "sanxxbella",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-02T12:58:21.589Z",
+      "updatedAt": "2026-04-02T12:58:21.589Z"
     }
   },
   "botTokens": {
@@ -2594,7 +2606,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-02T12:58:18.888Z",
+    "updatedAt": "2026-04-02T12:58:21.590Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
