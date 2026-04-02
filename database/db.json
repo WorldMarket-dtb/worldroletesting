@@ -215,6 +215,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-02T09:12:21.331Z",
       "updatedAt": "2026-04-02T09:12:21.331Z"
+    },
+    "6914888572": {
+      "id": 6914888572,
+      "firstName": "NUGZ STECU✌😜",
+      "lastName": "",
+      "username": "nugz_aja",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-02T09:12:25.708Z",
+      "updatedAt": "2026-04-02T09:12:25.708Z"
     }
   },
   "botTokens": {
@@ -499,7 +511,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-02T09:12:24.586Z",
+    "updatedAt": "2026-04-02T09:12:25.708Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
