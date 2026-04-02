@@ -1883,6 +1883,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-02T12:39:18.007Z",
       "updatedAt": "2026-04-02T12:39:18.007Z"
+    },
+    "6252224704": {
+      "id": 6252224704,
+      "firstName": "⏤͟͟͞𝙈𝟓 || james",
+      "lastName": "",
+      "username": "jamesskibidi",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-02T12:40:29.457Z",
+      "updatedAt": "2026-04-02T12:40:29.457Z"
     }
   },
   "botTokens": {
@@ -2378,7 +2390,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-02T12:40:27.168Z",
+    "updatedAt": "2026-04-02T12:40:29.457Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
