@@ -815,6 +815,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-02T10:00:45.892Z",
       "updatedAt": "2026-04-02T10:00:51.272Z"
+    },
+    "7500793037": {
+      "id": 7500793037,
+      "firstName": "luxz",
+      "lastName": "str",
+      "username": "LUXXZZZ",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-02T10:00:57.594Z",
+      "updatedAt": "2026-04-02T10:00:57.594Z"
     }
   },
   "botTokens": {
@@ -1178,7 +1190,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-02T10:00:56.143Z",
+    "updatedAt": "2026-04-02T10:00:57.594Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
