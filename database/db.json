@@ -1271,6 +1271,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-02T10:22:00.008Z",
       "updatedAt": "2026-04-02T10:22:00.008Z"
+    },
+    "6845259408": {
+      "id": 6845259408,
+      "firstName": "⏤͟͟𝐑𝐈𝐙𝐗 || 𝐓𝐫𝐲𝐃𝐚𝐱",
+      "lastName": "",
+      "username": "rizxofficial",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-02T10:23:16.504Z",
+      "updatedAt": "2026-04-02T10:23:16.504Z"
     }
   },
   "botTokens": {
@@ -1683,7 +1695,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-02T10:22:32.120Z",
+    "updatedAt": "2026-04-02T10:23:16.504Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
