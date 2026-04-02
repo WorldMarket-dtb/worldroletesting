@@ -1535,6 +1535,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-02T10:37:47.242Z",
       "updatedAt": "2026-04-02T10:37:47.242Z"
+    },
+    "6268297592": {
+      "id": 6268297592,
+      "firstName": "⋆ 𝙨𝞪𝞽𝟀𝙯.",
+      "lastName": "",
+      "username": "satxzy",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-02T12:27:50.510Z",
+      "updatedAt": "2026-04-02T12:27:50.510Z"
     }
   },
   "botTokens": {
@@ -2030,7 +2042,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-02T12:25:56.841Z",
+    "updatedAt": "2026-04-02T12:27:50.510Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
