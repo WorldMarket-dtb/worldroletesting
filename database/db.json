@@ -359,6 +359,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-02T09:40:14.620Z",
       "updatedAt": "2026-04-02T09:40:14.620Z"
+    },
+    "6854552378": {
+      "id": 6854552378,
+      "firstName": "『ARMUFA X DARKRELAY』",
+      "lastName": "",
+      "username": "armufaganteng",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-02T09:40:24.535Z",
+      "updatedAt": "2026-04-02T09:40:24.535Z"
     }
   },
   "botTokens": {
@@ -675,7 +687,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-02T09:40:14.621Z",
+    "updatedAt": "2026-04-02T09:40:24.535Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
