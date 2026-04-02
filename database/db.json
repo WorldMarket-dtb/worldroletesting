@@ -1019,6 +1019,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-02T10:08:41.295Z",
       "updatedAt": "2026-04-02T10:08:41.295Z"
+    },
+    "7650638549": {
+      "id": 7650638549,
+      "firstName": "Fadil",
+      "lastName": "Lah",
+      "username": "Fadil_442",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-02T10:08:46.675Z",
+      "updatedAt": "2026-04-02T10:08:46.675Z"
     }
   },
   "botTokens": {
@@ -1431,7 +1443,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-02T10:08:44.757Z",
+    "updatedAt": "2026-04-02T10:08:46.675Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
