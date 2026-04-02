@@ -1199,6 +1199,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-02T10:19:17.453Z",
       "updatedAt": "2026-04-02T10:19:44.135Z"
+    },
+    "8409825535": {
+      "id": 8409825535,
+      "firstName": "it's me sata",
+      "lastName": "",
+      "username": "Xestaa011",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-02T10:19:59.990Z",
+      "updatedAt": "2026-04-02T10:19:59.990Z"
     }
   },
   "botTokens": {
@@ -1611,7 +1623,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-02T10:19:44.135Z",
+    "updatedAt": "2026-04-02T10:19:59.990Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
