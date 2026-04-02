@@ -611,6 +611,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-02T09:45:15.561Z",
       "updatedAt": "2026-04-02T09:45:19.634Z"
+    },
+    "8712817780": {
+      "id": 8712817780,
+      "firstName": "Zyy",
+      "lastName": "GOOD 𝖋𝖙 𝐀𝐒𝐆",
+      "username": "zyyASG",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-02T09:45:53.077Z",
+      "updatedAt": "2026-04-02T09:45:53.077Z"
     }
   },
   "botTokens": {
@@ -944,7 +956,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-02T09:45:44.191Z",
+    "updatedAt": "2026-04-02T09:45:53.077Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
