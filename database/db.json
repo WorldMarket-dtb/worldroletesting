@@ -1763,6 +1763,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-02T12:36:04.547Z",
       "updatedAt": "2026-04-02T12:36:04.547Z"
+    },
+    "6578213381": {
+      "id": 6578213381,
+      "firstName": "─ 𝐊𝟒𝐞𝐳𝐚‌𝐫 ིྀ",
+      "lastName": "",
+      "username": "K4ezarIX",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-02T12:36:08.412Z",
+      "updatedAt": "2026-04-02T12:36:08.412Z"
     }
   },
   "botTokens": {
@@ -2258,7 +2270,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-02T12:36:06.319Z",
+    "updatedAt": "2026-04-02T12:36:08.412Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
