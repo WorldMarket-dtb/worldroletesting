@@ -911,6 +911,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-02T10:03:18.571Z",
       "updatedAt": "2026-04-02T10:03:28.369Z"
+    },
+    "8521716862": {
+      "id": 8521716862,
+      "firstName": "•𝐕𝐚𝐥𝐳𝐳 𝐏𝐞𝐭𝐞 [𝐎𝐭𝐚𝐱]",
+      "lastName": "",
+      "username": "Valzzq",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-02T10:04:09.531Z",
+      "updatedAt": "2026-04-02T10:04:09.531Z"
     }
   },
   "botTokens": {
@@ -1295,7 +1307,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-02T10:04:08.350Z",
+    "updatedAt": "2026-04-02T10:04:09.531Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
