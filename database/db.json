@@ -1043,6 +1043,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-02T10:08:46.675Z",
       "updatedAt": "2026-04-02T10:08:51.302Z"
+    },
+    "6888530451": {
+      "id": 6888530451,
+      "firstName": "ᯓ𝙈17 𝘍𝘦𝘳𝘻✗𓆪",
+      "lastName": "",
+      "username": "fer_disinih",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-02T10:09:14.413Z",
+      "updatedAt": "2026-04-02T10:09:14.413Z"
     }
   },
   "botTokens": {
@@ -1455,7 +1467,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-02T10:09:12.230Z",
+    "updatedAt": "2026-04-02T10:09:14.413Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
