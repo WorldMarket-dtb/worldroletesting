@@ -1067,6 +1067,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-02T10:10:18.608Z",
       "updatedAt": "2026-04-02T10:10:18.608Z"
+    },
+    "8649921761": {
+      "id": 8649921761,
+      "firstName": "Ramzz",
+      "lastName": "",
+      "username": "Fanzotax",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-02T10:10:21.748Z",
+      "updatedAt": "2026-04-02T10:10:21.748Z"
     }
   },
   "botTokens": {
@@ -1479,7 +1491,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-02T10:10:20.063Z",
+    "updatedAt": "2026-04-02T10:10:21.748Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
