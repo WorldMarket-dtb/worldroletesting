@@ -1085,12 +1085,12 @@
       "firstName": "⏤͟͟͞͞ RYANZ(⁠◕⁠ᴗ⁠◕⁠✿⁠)",
       "lastName": "",
       "username": "yanzz_xie",
-      "role": null,
-      "tokenQuota": 0,
+      "role": "tk",
+      "tokenQuota": 5,
       "tokensUsed": 0,
-      "tokensAvailable": 0,
+      "tokensAvailable": 5,
       "createdAt": "2026-04-02T10:07:41.143Z",
-      "updatedAt": "2026-04-02T10:26:42.656Z"
+      "updatedAt": "2026-04-02T12:34:12.613Z"
     },
     "8528271621": {
       "id": 8528271621,
@@ -2186,7 +2186,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-02T12:34:08.960Z",
+    "updatedAt": "2026-04-02T12:34:12.613Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
