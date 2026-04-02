@@ -72,6 +72,18 @@
       "createdAt": "2026-04-02T10:00:20.159Z",
       "updatedAt": "2026-04-02T10:01:48.179Z"
     },
+    "1454817064": {
+      "id": 1454817064,
+      "firstName": "𝐅𝐞𝐫𝐱𝐤𝐞𝐧𝐧𝐞𝐝𝐲 𝐋𝐒𝐓𝐂🎖️",
+      "lastName": "",
+      "username": "ferxkenzy",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-02T12:28:41.467Z",
+      "updatedAt": "2026-04-02T12:28:41.467Z"
+    },
     "1604297644": {
       "id": 1604297644,
       "firstName": "SanzXx",
@@ -2054,7 +2066,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-02T12:28:35.930Z",
+    "updatedAt": "2026-04-02T12:28:41.467Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
