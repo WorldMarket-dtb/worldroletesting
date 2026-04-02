@@ -1799,6 +1799,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-02T12:36:12.093Z",
       "updatedAt": "2026-04-02T12:36:12.093Z"
+    },
+    "7632742875": {
+      "id": 7632742875,
+      "firstName": "FruiteTēa.Kayzennotdevv ─˙ ̟ !!",
+      "lastName": "",
+      "username": "kayzennotdev",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-02T12:36:35.813Z",
+      "updatedAt": "2026-04-02T12:36:35.813Z"
     }
   },
   "botTokens": {
@@ -2294,7 +2306,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-02T12:36:33.165Z",
+    "updatedAt": "2026-04-02T12:36:35.813Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
