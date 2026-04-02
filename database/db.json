@@ -1451,6 +1451,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-02T10:34:35.127Z",
       "updatedAt": "2026-04-02T10:34:35.128Z"
+    },
+    "8040463739": {
+      "id": 8040463739,
+      "firstName": "ᯓ𝐃𝐎𝐂 || TIARA",
+      "lastName": "",
+      "username": "Steven_homelan",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-02T10:36:07.652Z",
+      "updatedAt": "2026-04-02T10:36:07.652Z"
     }
   },
   "botTokens": {
@@ -1946,7 +1958,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-02T10:36:01.527Z",
+    "updatedAt": "2026-04-02T10:36:07.652Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
