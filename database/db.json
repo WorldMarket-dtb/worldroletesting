@@ -1523,6 +1523,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-02T10:37:34.141Z",
       "updatedAt": "2026-04-02T10:37:38.468Z"
+    },
+    "8258064897": {
+      "id": 8258064897,
+      "firstName": "Bidz",
+      "lastName": "",
+      "username": "BidzStore123",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-02T10:37:47.242Z",
+      "updatedAt": "2026-04-02T10:37:47.242Z"
     }
   },
   "botTokens": {
@@ -2018,7 +2030,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-02T10:37:38.468Z",
+    "updatedAt": "2026-04-02T10:37:47.242Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
