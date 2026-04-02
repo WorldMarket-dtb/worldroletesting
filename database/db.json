@@ -1211,6 +1211,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-02T10:19:59.990Z",
       "updatedAt": "2026-04-02T10:19:59.990Z"
+    },
+    "8399505429": {
+      "id": 8399505429,
+      "firstName": "Baut",
+      "lastName": "",
+      "username": "bautbaut1",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-02T10:20:04.908Z",
+      "updatedAt": "2026-04-02T10:20:04.908Z"
     }
   },
   "botTokens": {
@@ -1623,7 +1635,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-02T10:19:59.990Z",
+    "updatedAt": "2026-04-02T10:20:04.908Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
