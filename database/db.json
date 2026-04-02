@@ -2123,6 +2123,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-02T12:58:26.394Z",
       "updatedAt": "2026-04-02T12:58:26.394Z"
+    },
+    "8397558611": {
+      "id": 8397558611,
+      "firstName": "taxmmam",
+      "lastName": "",
+      "username": "taxmmam",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-02T12:58:29.824Z",
+      "updatedAt": "2026-04-02T12:58:29.824Z"
     }
   },
   "botTokens": {
@@ -2618,7 +2630,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-02T12:58:27.774Z",
+    "updatedAt": "2026-04-02T12:58:29.824Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
