@@ -539,6 +539,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-02T09:43:43.246Z",
       "updatedAt": "2026-04-02T09:43:43.246Z"
+    },
+    "8024535889": {
+      "id": 8024535889,
+      "firstName": "Fatih🤓",
+      "lastName": "",
+      "username": "Fatih12440",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-02T09:44:43.492Z",
+      "updatedAt": "2026-04-02T09:44:43.492Z"
     }
   },
   "botTokens": {
@@ -872,7 +884,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-02T09:44:37.468Z",
+    "updatedAt": "2026-04-02T09:44:43.492Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
