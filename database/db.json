@@ -1781,12 +1781,12 @@
       "firstName": "𝐋𝐮𝐥𝐳𝐳",
       "lastName": "",
       "username": "lulzback",
-      "role": null,
-      "tokenQuota": 0,
+      "role": "partner",
+      "tokenQuota": 4,
       "tokensUsed": 0,
-      "tokensAvailable": 0,
+      "tokensAvailable": 4,
       "createdAt": "2026-04-02T12:36:09.982Z",
-      "updatedAt": "2026-04-02T12:36:54.176Z"
+      "updatedAt": "2026-04-02T12:39:06.003Z"
     },
     "5934905483": {
       "id": 5934905483,
@@ -2366,7 +2366,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-02T12:39:04.408Z",
+    "updatedAt": "2026-04-02T12:39:06.003Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
