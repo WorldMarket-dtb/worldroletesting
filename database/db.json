@@ -96,6 +96,18 @@
       "createdAt": "2026-04-02T10:00:20.159Z",
       "updatedAt": "2026-04-02T10:01:48.179Z"
     },
+    "1402049962": {
+      "id": 1402049962,
+      "firstName": "I'm Karz Official",
+      "lastName": "",
+      "username": "Dx_karzItshere5",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-02T12:41:00.798Z",
+      "updatedAt": "2026-04-02T12:41:00.798Z"
+    },
     "1454817064": {
       "id": 1454817064,
       "firstName": "𝐅𝐞𝐫𝐱𝐤𝐞𝐧𝐧𝐞𝐝𝐲 𝐋𝐒𝐓𝐂🎖️",
@@ -2402,7 +2414,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-02T12:40:59.224Z",
+    "updatedAt": "2026-04-02T12:41:00.798Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
