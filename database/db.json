@@ -2075,6 +2075,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-02T12:58:09.533Z",
       "updatedAt": "2026-04-02T12:58:09.533Z"
+    },
+    "7998327917": {
+      "id": 7998327917,
+      "firstName": "Tenka",
+      "lastName": "Offc",
+      "username": "tenkaoffc",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-02T12:58:11.881Z",
+      "updatedAt": "2026-04-02T12:58:11.881Z"
     }
   },
   "botTokens": {
@@ -2570,7 +2582,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-02T12:58:09.533Z",
+    "updatedAt": "2026-04-02T12:58:11.881Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
