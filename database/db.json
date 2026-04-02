@@ -1931,6 +1931,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-02T12:41:33.690Z",
       "updatedAt": "2026-04-02T12:41:33.690Z"
+    },
+    "8005116771": {
+      "id": 8005116771,
+      "firstName": "ցí́xɾαxs",
+      "lastName": "",
+      "username": "GIXxx4you",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-02T12:42:01.876Z",
+      "updatedAt": "2026-04-02T12:42:01.876Z"
     }
   },
   "botTokens": {
@@ -2426,7 +2438,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-02T12:42:00.323Z",
+    "updatedAt": "2026-04-02T12:42:01.876Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
