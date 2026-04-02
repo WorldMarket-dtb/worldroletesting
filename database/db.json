@@ -863,6 +863,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-02T10:01:59.060Z",
       "updatedAt": "2026-04-02T10:01:59.060Z"
+    },
+    "8520148278": {
+      "id": 8520148278,
+      "firstName": "Daffa OPEN MURBUG",
+      "lastName": "",
+      "username": "Dwzzz_7",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-02T10:02:17.637Z",
+      "updatedAt": "2026-04-02T10:02:17.637Z"
     }
   },
   "botTokens": {
@@ -1230,7 +1242,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-02T10:02:16.187Z",
+    "updatedAt": "2026-04-02T10:02:17.637Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
