@@ -96,6 +96,18 @@
       "createdAt": "2026-04-02T09:12:54.195Z",
       "updatedAt": "2026-04-02T09:13:09.002Z"
     },
+    "2130208899": {
+      "id": 2130208899,
+      "firstName": "⋆ ￶￶￶￶🐾 𝚕𝚛𝚢 𝙶𝚕𝚘𝚛𝚢 𖣂",
+      "lastName": "",
+      "username": "moodturun",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-02T09:43:35.509Z",
+      "updatedAt": "2026-04-02T09:43:35.509Z"
+    },
     "7912689350": {
       "id": 7912689350,
       "firstName": "𝐮𝐧𝐠𝐤𝐞𝐞𝐞",
@@ -848,7 +860,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-02T09:43:31.288Z",
+    "updatedAt": "2026-04-02T09:43:35.509Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
