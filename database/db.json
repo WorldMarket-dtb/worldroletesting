@@ -125,12 +125,12 @@
       "firstName": "SanzXx",
       "lastName": "",
       "username": "Sanzsuip09",
-      "role": null,
-      "tokenQuota": 0,
+      "role": "partner",
+      "tokenQuota": 4,
       "tokensUsed": 0,
-      "tokensAvailable": 0,
+      "tokensAvailable": 4,
       "createdAt": "2026-04-02T09:11:39.750Z",
-      "updatedAt": "2026-04-02T12:40:13.706Z"
+      "updatedAt": "2026-04-02T12:40:44.563Z"
     },
     "1641136374": {
       "id": 1641136374,
@@ -2402,7 +2402,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-02T12:40:42.545Z",
+    "updatedAt": "2026-04-02T12:40:44.563Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
