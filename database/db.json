@@ -1739,6 +1739,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-02T12:35:35.166Z",
       "updatedAt": "2026-04-02T12:35:35.166Z"
+    },
+    "8376951073": {
+      "id": 8376951073,
+      "firstName": "𝐃𝐗 ϟ 𝐅𝐀𝐋𝐙𝐙 ۩♚",
+      "lastName": "",
+      "username": "FalzzDX04",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-02T12:35:37.163Z",
+      "updatedAt": "2026-04-02T12:35:37.163Z"
     }
   },
   "botTokens": {
@@ -2234,7 +2246,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-02T12:35:35.166Z",
+    "updatedAt": "2026-04-02T12:35:37.163Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
