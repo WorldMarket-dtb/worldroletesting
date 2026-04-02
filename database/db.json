@@ -1415,6 +1415,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-02T10:33:23.592Z",
       "updatedAt": "2026-04-02T10:33:24.591Z"
+    },
+    "7592744158": {
+      "id": 7592744158,
+      "firstName": "Yerin",
+      "lastName": "",
+      "username": "Yerincha",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-02T10:33:38.513Z",
+      "updatedAt": "2026-04-02T10:33:38.513Z"
     }
   },
   "botTokens": {
@@ -1910,7 +1922,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-02T10:33:33.870Z",
+    "updatedAt": "2026-04-02T10:33:38.513Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
