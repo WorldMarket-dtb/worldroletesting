@@ -107,6 +107,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-02T09:10:37.117Z",
       "updatedAt": "2026-04-02T09:10:37.117Z"
+    },
+    "8285543098": {
+      "id": 8285543098,
+      "firstName": "𝙁𝙖𝙖♛",
+      "lastName": "",
+      "username": "faasukamieayams",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-02T09:10:38.062Z",
+      "updatedAt": "2026-04-02T09:10:38.062Z"
     }
   },
   "botTokens": {
@@ -391,7 +403,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-02T09:10:37.117Z",
+    "updatedAt": "2026-04-02T09:10:38.062Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
