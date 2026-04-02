@@ -1919,6 +1919,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-02T12:40:29.457Z",
       "updatedAt": "2026-04-02T12:40:49.810Z"
+    },
+    "8597242489": {
+      "id": 8597242489,
+      "firstName": "𑲭𑲭𑲭𑲭𑲭𑲭monzyy🥷¤๋ࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣧࣧࣧࣧࣧࣧࣧࣧ͜͡",
+      "lastName": "",
+      "username": "momonzyy",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-02T12:41:33.690Z",
+      "updatedAt": "2026-04-02T12:41:33.690Z"
     }
   },
   "botTokens": {
@@ -2414,7 +2426,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-02T12:41:32.124Z",
+    "updatedAt": "2026-04-02T12:41:33.690Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
