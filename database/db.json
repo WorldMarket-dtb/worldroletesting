@@ -527,6 +527,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-02T09:43:31.287Z",
       "updatedAt": "2026-04-02T09:43:41.085Z"
+    },
+    "8436746255": {
+      "id": 8436746255,
+      "firstName": "⏤͟͟͞͞ 𝗧͢𝗿𝙚𝙭 𝗫 || 𝙇𝙀𝙉𝙉 あ",
+      "lastName": "",
+      "username": "Rennpleh",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-02T09:43:43.246Z",
+      "updatedAt": "2026-04-02T09:43:43.246Z"
     }
   },
   "botTokens": {
@@ -860,7 +872,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-02T09:43:41.085Z",
+    "updatedAt": "2026-04-02T09:43:43.246Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
