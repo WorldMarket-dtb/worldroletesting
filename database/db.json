@@ -1373,12 +1373,12 @@
       "firstName": "𝐙𝐄𝐍𝐍𝐈𝐗𝐊𝐘",
       "lastName": "",
       "username": "Zennixky",
-      "role": null,
-      "tokenQuota": 0,
+      "role": "tk",
+      "tokenQuota": 5,
       "tokensUsed": 0,
-      "tokensAvailable": 0,
+      "tokensAvailable": 5,
       "createdAt": "2026-04-02T10:25:04.094Z",
-      "updatedAt": "2026-04-02T10:25:04.094Z"
+      "updatedAt": "2026-04-02T12:34:14.374Z"
     },
     "8240061721": {
       "id": 8240061721,
@@ -2186,7 +2186,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-02T12:34:12.613Z",
+    "updatedAt": "2026-04-02T12:34:14.374Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
