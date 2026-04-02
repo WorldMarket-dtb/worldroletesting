@@ -2015,6 +2015,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-02T12:57:44.638Z",
       "updatedAt": "2026-04-02T12:57:44.638Z"
+    },
+    "7639784133": {
+      "id": 7639784133,
+      "firstName": "⏤͟͟͞͞𝗤𝗤𝗦 제 rapxz",
+      "lastName": "",
+      "username": "",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-02T12:57:46.961Z",
+      "updatedAt": "2026-04-02T12:57:46.961Z"
     }
   },
   "botTokens": {
@@ -2510,7 +2522,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-02T12:57:44.638Z",
+    "updatedAt": "2026-04-02T12:57:46.961Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
