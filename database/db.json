@@ -47,6 +47,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-02T09:09:13.265Z",
       "updatedAt": "2026-04-02T09:09:42.812Z"
+    },
+    "8598771334": {
+      "id": 8598771334,
+      "firstName": "Riskisoftspoken•𝕹𝕰𝖃𝕾𝖀𝕾",
+      "lastName": "",
+      "username": "Garisketurunan",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-02T09:09:46.093Z",
+      "updatedAt": "2026-04-02T09:09:46.093Z"
     }
   },
   "botTokens": {
@@ -331,7 +343,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-02T09:09:42.812Z",
+    "updatedAt": "2026-04-02T09:09:46.093Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
