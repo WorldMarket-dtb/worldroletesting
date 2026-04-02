@@ -2135,6 +2135,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-02T12:58:29.824Z",
       "updatedAt": "2026-04-02T12:58:29.824Z"
+    },
+    "7753122651": {
+      "id": 7753122651,
+      "firstName": "𝐊͠𝐲𝐮̋͢𝐫𝐨𝐗𝐃愛 -𝐂𝐨 𝐅𝐨𝐮𝐧𝐝𝐞𝐫",
+      "lastName": "",
+      "username": "KyuroXD",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-02T12:59:49.665Z",
+      "updatedAt": "2026-04-02T12:59:49.665Z"
     }
   },
   "botTokens": {
@@ -2630,7 +2642,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-02T12:59:47.011Z",
+    "updatedAt": "2026-04-02T12:59:49.665Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
