@@ -143,6 +143,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-02T09:11:33.142Z",
       "updatedAt": "2026-04-02T09:11:33.142Z"
+    },
+    "7351443961": {
+      "id": 7351443961,
+      "firstName": "ʀɪɴᴢᴢ",
+      "lastName": "",
+      "username": "rinzzera",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-02T09:11:45.981Z",
+      "updatedAt": "2026-04-02T09:11:45.981Z"
     }
   },
   "botTokens": {
@@ -427,7 +439,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-02T09:11:39.750Z",
+    "updatedAt": "2026-04-02T09:11:45.981Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
