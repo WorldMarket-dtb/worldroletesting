@@ -551,6 +551,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-02T09:44:43.492Z",
       "updatedAt": "2026-04-02T09:44:43.492Z"
+    },
+    "8437387517": {
+      "id": 8437387517,
+      "firstName": "𝕮𝖊𝖕𝖔𝖙𝖘 𝕱𝖓𝖆𝖙𝖎𝖐𝖐",
+      "lastName": "[ 𝐑𝐄𝐀𝐋 𝐏𝐓 𝐎𝐓𝐀𝐗 | 𝐑𝐄𝐒 𝐎𝐑𝐂𝐀 ] ☠️❗",
+      "username": "Cepotzs",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-02T09:44:47.749Z",
+      "updatedAt": "2026-04-02T09:44:47.749Z"
     }
   },
   "botTokens": {
@@ -884,7 +896,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-02T09:44:46.683Z",
+    "updatedAt": "2026-04-02T09:44:47.749Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
