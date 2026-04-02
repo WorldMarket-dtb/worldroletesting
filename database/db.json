@@ -1811,6 +1811,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-02T12:36:35.813Z",
       "updatedAt": "2026-04-02T12:36:37.586Z"
+    },
+    "6094079438": {
+      "id": 6094079438,
+      "firstName": "𝐓𝐗 𝐝𝐚𝐩 𝐩𝐚𝐛𝐥𝐨 —!",
+      "lastName": "",
+      "username": "dapalexander",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-02T12:36:43.033Z",
+      "updatedAt": "2026-04-02T12:36:43.033Z"
     }
   },
   "botTokens": {
@@ -2306,7 +2318,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-02T12:36:40.981Z",
+    "updatedAt": "2026-04-02T12:36:43.033Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
