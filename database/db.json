@@ -1103,6 +1103,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-02T10:11:35.918Z",
       "updatedAt": "2026-04-02T10:11:35.918Z"
+    },
+    "7093505859": {
+      "id": 7093505859,
+      "firstName": "𝙏𝙒𝙄𝙇⛦𝙄𝙂𝙃𝙏 - 𝙓𝙯𝙓",
+      "lastName": "",
+      "username": "twilightXzX",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-02T10:12:33.015Z",
+      "updatedAt": "2026-04-02T10:12:33.015Z"
     }
   },
   "botTokens": {
@@ -1515,7 +1527,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-02T10:12:05.360Z",
+    "updatedAt": "2026-04-02T10:12:33.015Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
