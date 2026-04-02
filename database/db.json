@@ -731,6 +731,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-02T09:57:44.756Z",
       "updatedAt": "2026-04-02T09:57:44.756Z"
+    },
+    "7273820780": {
+      "id": 7273820780,
+      "firstName": "𝐅𝐀𝐇𝐌𝐈 𝐒𝐓𝐎𝐑𝐄",
+      "lastName": "",
+      "username": "fahmisatoru096",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-02T09:58:10.575Z",
+      "updatedAt": "2026-04-02T09:58:10.575Z"
     }
   },
   "botTokens": {
@@ -1077,7 +1089,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-02T09:58:05.378Z",
+    "updatedAt": "2026-04-02T09:58:10.575Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
