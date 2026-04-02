@@ -2159,6 +2159,18 @@
       "tokensAvailable": 8,
       "createdAt": "2026-04-02T13:05:16.248Z",
       "updatedAt": "2026-04-02T13:07:58.056Z"
+    },
+    "7988686351": {
+      "id": 7988686351,
+      "firstName": "𝗙𝗘𝗥𝗗𝗢 成功 [ 𝗢𝗣𝗘𝗡𝗡𝗡 ]",
+      "lastName": "",
+      "username": "ferdoooxz",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-02T13:12:01.759Z",
+      "updatedAt": "2026-04-02T13:12:01.759Z"
     }
   },
   "botTokens": {
@@ -2680,7 +2692,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-02T13:11:48.853Z",
+    "updatedAt": "2026-04-02T13:12:01.759Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
