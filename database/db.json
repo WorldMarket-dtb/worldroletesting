@@ -299,6 +299,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-02T09:13:12.183Z",
       "updatedAt": "2026-04-02T09:13:12.184Z"
+    },
+    "7235398434": {
+      "id": 7235398434,
+      "firstName": "¡m # P£NZΩ•𝕹𝕰𝖃𝕾𝖀𝕾 ♠",
+      "lastName": "",
+      "username": "penzoyzy29",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-02T09:13:17.679Z",
+      "updatedAt": "2026-04-02T09:13:17.679Z"
     }
   },
   "botTokens": {
@@ -598,7 +610,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-02T09:13:16.668Z",
+    "updatedAt": "2026-04-02T09:13:17.679Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
