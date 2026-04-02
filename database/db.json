@@ -875,6 +875,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-02T10:02:17.637Z",
       "updatedAt": "2026-04-02T10:02:41.979Z"
+    },
+    "8573579529": {
+      "id": 8573579529,
+      "firstName": "Néxxáww",
+      "lastName": "",
+      "username": "",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-02T10:02:46.606Z",
+      "updatedAt": "2026-04-02T10:02:46.606Z"
     }
   },
   "botTokens": {
@@ -1242,7 +1254,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-02T10:02:41.979Z",
+    "updatedAt": "2026-04-02T10:02:46.606Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
