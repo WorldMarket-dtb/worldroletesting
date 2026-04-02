@@ -1295,6 +1295,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-02T10:23:38.882Z",
       "updatedAt": "2026-04-02T10:23:38.882Z"
+    },
+    "8304067189": {
+      "id": 8304067189,
+      "firstName": "⏤͟͟͞͞ Rynn' Archiée",
+      "lastName": "",
+      "username": "yanbaik",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-02T10:24:21.826Z",
+      "updatedAt": "2026-04-02T10:24:21.826Z"
     }
   },
   "botTokens": {
@@ -1707,7 +1719,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-02T10:23:51.897Z",
+    "updatedAt": "2026-04-02T10:24:21.827Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
