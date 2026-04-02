@@ -149,12 +149,12 @@
       "firstName": "𝑹𝒂𝒑𝒛𝒊 || ⏤͟͟𝙎𝙐𝙋𝙀𝙍𝙉𝙊𝙑𝘼",
       "lastName": "",
       "username": "zallxyzz",
-      "role": null,
-      "tokenQuota": 0,
+      "role": "tk",
+      "tokenQuota": 5,
       "tokensUsed": 0,
-      "tokensAvailable": 0,
+      "tokensAvailable": 5,
       "createdAt": "2026-04-02T10:35:04.753Z",
-      "updatedAt": "2026-04-02T10:35:05.619Z"
+      "updatedAt": "2026-04-02T10:36:14.735Z"
     },
     "2130208899": {
       "id": 2130208899,
@@ -1958,7 +1958,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-02T10:36:10.484Z",
+    "updatedAt": "2026-04-02T10:36:14.735Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
