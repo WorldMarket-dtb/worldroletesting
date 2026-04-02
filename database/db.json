@@ -575,6 +575,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-02T09:44:53.574Z",
       "updatedAt": "2026-04-02T09:44:53.574Z"
+    },
+    "8443693579": {
+      "id": 8443693579,
+      "firstName": "𝗣𝗿𝗶𝗮_𝘀𝗼𝗹𝗼",
+      "lastName": "",
+      "username": "Jokowi_solo",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-02T09:44:57.934Z",
+      "updatedAt": "2026-04-02T09:44:57.934Z"
     }
   },
   "botTokens": {
@@ -908,7 +920,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-02T09:44:55.072Z",
+    "updatedAt": "2026-04-02T09:44:57.934Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
