@@ -743,6 +743,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-02T09:58:10.575Z",
       "updatedAt": "2026-04-02T09:58:10.575Z"
+    },
+    "8710314980": {
+      "id": 8710314980,
+      "firstName": "Zidhan",
+      "lastName": "Ganteng",
+      "username": "ZIDHANOTAX123",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-02T09:58:13.110Z",
+      "updatedAt": "2026-04-02T09:58:13.110Z"
     }
   },
   "botTokens": {
@@ -1089,7 +1101,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-02T09:58:11.406Z",
+    "updatedAt": "2026-04-02T09:58:13.110Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
