@@ -467,6 +467,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-02T09:42:08.059Z",
       "updatedAt": "2026-04-02T09:42:08.059Z"
+    },
+    "7527844007": {
+      "id": 7527844007,
+      "firstName": "𝘃𝗲𝗻",
+      "lastName": "",
+      "username": "venreal",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-02T09:42:25.102Z",
+      "updatedAt": "2026-04-02T09:42:25.102Z"
     }
   },
   "botTokens": {
@@ -796,7 +808,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-02T09:42:16.143Z",
+    "updatedAt": "2026-04-02T09:42:25.102Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
