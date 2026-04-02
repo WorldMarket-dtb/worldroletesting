@@ -2087,6 +2087,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-02T12:58:11.881Z",
       "updatedAt": "2026-04-02T12:58:11.881Z"
+    },
+    "7370720090": {
+      "id": 7370720090,
+      "firstName": "Overlord ||",
+      "lastName": "Xyz©",
+      "username": "ezakeche",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-02T12:58:14.553Z",
+      "updatedAt": "2026-04-02T12:58:14.553Z"
     }
   },
   "botTokens": {
@@ -2582,7 +2594,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-02T12:58:11.881Z",
+    "updatedAt": "2026-04-02T12:58:14.553Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
