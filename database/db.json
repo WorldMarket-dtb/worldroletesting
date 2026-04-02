@@ -1871,6 +1871,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-02T12:38:02.108Z",
       "updatedAt": "2026-04-02T12:38:02.108Z"
+    },
+    "8031778201": {
+      "id": 8031778201,
+      "firstName": "ALKALAM",
+      "lastName": "",
+      "username": "ALKALAM_LAWE",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-02T12:39:18.007Z",
+      "updatedAt": "2026-04-02T12:39:18.007Z"
     }
   },
   "botTokens": {
@@ -2366,7 +2378,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-02T12:39:16.454Z",
+    "updatedAt": "2026-04-02T12:39:18.007Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
