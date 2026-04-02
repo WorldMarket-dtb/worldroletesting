@@ -1703,6 +1703,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-02T12:34:57.045Z",
       "updatedAt": "2026-04-02T12:34:57.045Z"
+    },
+    "6320222759": {
+      "id": 6320222759,
+      "firstName": "Edzz",
+      "lastName": "",
+      "username": "Edzzsya",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-02T12:35:26.060Z",
+      "updatedAt": "2026-04-02T12:35:26.060Z"
     }
   },
   "botTokens": {
@@ -2198,7 +2210,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-02T12:35:23.714Z",
+    "updatedAt": "2026-04-02T12:35:26.060Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
