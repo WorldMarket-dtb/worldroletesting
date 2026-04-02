@@ -899,6 +899,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-02T10:03:09.896Z",
       "updatedAt": "2026-04-02T10:03:09.896Z"
+    },
+    "7984944300": {
+      "id": 7984944300,
+      "firstName": "R16X⛧",
+      "lastName": "",
+      "username": "dappnotdev",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-02T10:03:18.571Z",
+      "updatedAt": "2026-04-02T10:03:18.571Z"
     }
   },
   "botTokens": {
@@ -1266,7 +1278,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-02T10:03:13.466Z",
+    "updatedAt": "2026-04-02T10:03:18.572Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
