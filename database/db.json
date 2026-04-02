@@ -1151,6 +1151,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-02T10:17:29.039Z",
       "updatedAt": "2026-04-02T10:17:29.039Z"
+    },
+    "8291308710": {
+      "id": 8291308710,
+      "firstName": "𝐋𝐨𝐥𝐢𝐩𝐨𝐩 ||",
+      "lastName": "𝐌𝐞𝐥𝐞𝐱𝐮𝐡 𝐬𝐮𝐤𝐚 𝐬𝐮𝐬𝐮🍼",
+      "username": "Melexuh",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-02T10:17:38.948Z",
+      "updatedAt": "2026-04-02T10:17:38.948Z"
     }
   },
   "botTokens": {
@@ -1563,7 +1575,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-02T10:17:29.039Z",
+    "updatedAt": "2026-04-02T10:17:38.948Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
