@@ -1618,11 +1618,49 @@
       "caption": "",
       "status": "approved",
       "createdAt": "2026-04-02T10:25:15.771Z",
-      "updatedAt": "2026-04-02T10:25:33.128Z",
+      "updatedAt": "2026-04-02T10:25:34.965Z",
       "approvedBy": 1869797810,
       "approvedByUsername": "worldmarketvip",
       "finalPeriod": "permanent",
-      "expiresAt": null
+      "expiresAt": null,
+      "inviteLinks": [
+        {
+          "role": "tk",
+          "groupName": "FULLUP - Full Up otax",
+          "chatId": -1003847993974,
+          "inviteLink": "https://t.me/+IoiV4hv72n4xODk1",
+          "status": "active",
+          "createdAt": "2026-04-02T10:25:33.971Z",
+          "expiresAt": null
+        },
+        {
+          "role": "tk",
+          "groupName": "RESELLER - Reseller otax",
+          "chatId": -1003849985175,
+          "inviteLink": "https://t.me/+RUX8v5oRXcVjYzc1",
+          "status": "active",
+          "createdAt": "2026-04-02T10:25:34.169Z",
+          "expiresAt": null
+        },
+        {
+          "role": "tk",
+          "groupName": "PT - Partner otax",
+          "chatId": -1003717897662,
+          "inviteLink": "https://t.me/+BJR4GCfozt1hY2Vl",
+          "status": "active",
+          "createdAt": "2026-04-02T10:25:34.382Z",
+          "expiresAt": null
+        },
+        {
+          "role": "tk",
+          "groupName": "TK - Tangan Kanan otax",
+          "chatId": -1003737982886,
+          "inviteLink": "https://t.me/+xvkn2101HFkyZWJl",
+          "status": "active",
+          "createdAt": "2026-04-02T10:25:34.577Z",
+          "expiresAt": null
+        }
+      ]
     }
   },
   "reports": [
@@ -1748,10 +1786,63 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-02T10:25:33.128Z",
+    "updatedAt": "2026-04-02T10:25:34.965Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
   },
-  "buyerInvites": {}
+  "buyerInvites": {
+    "https://t.me/+IoiV4hv72n4xODk1": {
+      "requestId": "1775125515495",
+      "requesterId": 1869797810,
+      "requesterUsername": "worldmarketvip",
+      "buyerUsername": "promosiworld",
+      "role": "tk",
+      "groupName": "FULLUP - Full Up otax",
+      "chatId": -1003847993974,
+      "inviteLink": "https://t.me/+IoiV4hv72n4xODk1",
+      "status": "active",
+      "createdAt": "2026-04-02T10:25:33.971Z",
+      "expiresAt": null
+    },
+    "https://t.me/+RUX8v5oRXcVjYzc1": {
+      "requestId": "1775125515495",
+      "requesterId": 1869797810,
+      "requesterUsername": "worldmarketvip",
+      "buyerUsername": "promosiworld",
+      "role": "tk",
+      "groupName": "RESELLER - Reseller otax",
+      "chatId": -1003849985175,
+      "inviteLink": "https://t.me/+RUX8v5oRXcVjYzc1",
+      "status": "active",
+      "createdAt": "2026-04-02T10:25:34.169Z",
+      "expiresAt": null
+    },
+    "https://t.me/+BJR4GCfozt1hY2Vl": {
+      "requestId": "1775125515495",
+      "requesterId": 1869797810,
+      "requesterUsername": "worldmarketvip",
+      "buyerUsername": "promosiworld",
+      "role": "tk",
+      "groupName": "PT - Partner otax",
+      "chatId": -1003717897662,
+      "inviteLink": "https://t.me/+BJR4GCfozt1hY2Vl",
+      "status": "active",
+      "createdAt": "2026-04-02T10:25:34.382Z",
+      "expiresAt": null
+    },
+    "https://t.me/+xvkn2101HFkyZWJl": {
+      "requestId": "1775125515495",
+      "requesterId": 1869797810,
+      "requesterUsername": "worldmarketvip",
+      "buyerUsername": "promosiworld",
+      "role": "tk",
+      "groupName": "TK - Tangan Kanan otax",
+      "chatId": -1003737982886,
+      "inviteLink": "https://t.me/+xvkn2101HFkyZWJl",
+      "status": "active",
+      "createdAt": "2026-04-02T10:25:34.577Z",
+      "expiresAt": null
+    }
+  }
 }
