@@ -1979,6 +1979,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-02T12:43:10.849Z",
       "updatedAt": "2026-04-02T12:43:10.849Z"
+    },
+    "7491045987": {
+      "id": 7491045987,
+      "firstName": "¡m #RIJALZX [ 𝐎𝐏𝐄𝐍 ]",
+      "lastName": "",
+      "username": "Rijalzx",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-02T12:43:12.611Z",
+      "updatedAt": "2026-04-02T12:43:12.611Z"
     }
   },
   "botTokens": {
@@ -2474,7 +2486,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-02T12:43:10.849Z",
+    "updatedAt": "2026-04-02T12:43:12.611Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
