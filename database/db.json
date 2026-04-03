@@ -2231,6 +2231,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-02T14:09:01.593Z",
       "updatedAt": "2026-04-02T14:09:11.757Z"
+    },
+    "7639535513": {
+      "id": 7639535513,
+      "firstName": "⏤͟͟͞͞ 𝗧͢𝗿𝗶𝗽͢𝗹𝗲 𝗫 || 𝙆𝙄𝙉𝙂 𝙕𝙄𝙋𝙋𝙀𝙍",
+      "lastName": "[ 𝐑𝐄𝐇𝐀𝐓 ]",
+      "username": "ryzznothigh",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-03T14:56:44.787Z",
+      "updatedAt": "2026-04-03T14:56:44.787Z"
     }
   },
   "botTokens": {
@@ -2812,7 +2824,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-03T14:56:12.815Z",
+    "updatedAt": "2026-04-03T14:56:44.787Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
