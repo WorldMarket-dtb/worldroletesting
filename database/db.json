@@ -2267,6 +2267,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-03T15:53:09.794Z",
       "updatedAt": "2026-04-03T16:30:29.552Z"
+    },
+    "7158867284": {
+      "id": 7158867284,
+      "firstName": "Ren pensi jadi raja ibelis",
+      "lastName": "",
+      "username": "Rencuyyyy",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-03T22:47:59.291Z",
+      "updatedAt": "2026-04-03T22:47:59.291Z"
     }
   },
   "botTokens": {
@@ -2893,7 +2905,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-03T16:30:29.552Z",
+    "updatedAt": "2026-04-03T22:47:59.291Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
