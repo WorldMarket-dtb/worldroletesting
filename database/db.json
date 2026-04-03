@@ -108,6 +108,18 @@
       "createdAt": "2026-04-02T14:26:37.016Z",
       "updatedAt": "2026-04-02T14:26:43.496Z"
     },
+    "1285642034": {
+      "id": 1285642034,
+      "firstName": "ʍ𝖾 cyaaaa",
+      "lastName": "",
+      "username": "Beelzebubchan",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-03T14:52:05.301Z",
+      "updatedAt": "2026-04-03T14:52:05.301Z"
+    },
     "1313329251": {
       "id": 1313329251,
       "firstName": "Ken rill pete moonton",
@@ -2783,7 +2795,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-03T14:52:02.625Z",
+    "updatedAt": "2026-04-03T14:52:05.301Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
