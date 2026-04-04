@@ -2291,6 +2291,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-04T00:01:38.676Z",
       "updatedAt": "2026-04-04T00:01:38.677Z"
+    },
+    "8107594302": {
+      "id": 8107594302,
+      "firstName": "𝐑𝐈𝐙𝐙 • 𝐗𝐞𝐫𝐜𝐮𝐥𝐞𝐬𝐳零 (𝐎𝐏𝐄𝐍 𝐌𝐔𝐑𝐁𝐔𝐆 𝐁𝐄𝐁𝐀𝐒 𝐒𝐏𝐀𝐌 | 𝐉𝐀𝐒𝐁𝐔𝐆 𝐖𝐀 & 𝐀𝐏𝐊 𝐏𝐑EM",
+      "lastName": "",
+      "username": "rixzzxzsz",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-04T02:21:03.109Z",
+      "updatedAt": "2026-04-04T02:21:03.109Z"
     }
   },
   "botTokens": {
@@ -3000,7 +3012,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-04T02:16:27.807Z",
+    "updatedAt": "2026-04-04T02:21:03.110Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
