@@ -2315,6 +2315,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-04T02:26:47.208Z",
       "updatedAt": "2026-04-04T02:49:24.460Z"
+    },
+    "7077710873": {
+      "id": 7077710873,
+      "firstName": "-Venn || #Ktaltys",
+      "lastName": "",
+      "username": "WolfXold",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-04T02:49:38.768Z",
+      "updatedAt": "2026-04-04T02:49:38.768Z"
     }
   },
   "botTokens": {
@@ -3024,7 +3036,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-04T02:49:24.460Z",
+    "updatedAt": "2026-04-04T02:49:38.768Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
