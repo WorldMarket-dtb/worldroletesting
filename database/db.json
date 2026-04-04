@@ -2351,6 +2351,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-04T06:15:02.271Z",
       "updatedAt": "2026-04-04T07:32:02.668Z"
+    },
+    "7643018630": {
+      "id": 7643018630,
+      "firstName": "mandalika",
+      "lastName": "",
+      "username": "",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-04T09:51:04.422Z",
+      "updatedAt": "2026-04-04T09:51:04.422Z"
     }
   },
   "botTokens": {
@@ -3060,7 +3072,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-04T08:53:24.974Z",
+    "updatedAt": "2026-04-04T09:51:04.422Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
