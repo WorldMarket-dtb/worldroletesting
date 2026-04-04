@@ -2841,11 +2841,40 @@
       "caption": "",
       "status": "approved",
       "createdAt": "2026-04-04T01:50:16.391Z",
-      "updatedAt": "2026-04-04T01:50:25.930Z",
+      "updatedAt": "2026-04-04T01:50:28.675Z",
       "approvedBy": 8256619463,
       "approvedByUsername": "leakcuy",
       "finalPeriod": "7d",
-      "expiresAt": "2026-04-11T01:50:25.930Z"
+      "expiresAt": "2026-04-11T01:50:25.930Z",
+      "inviteLinks": [
+        {
+          "role": "partner",
+          "groupName": "FULLUP - Full Up otax",
+          "chatId": -1003629534517,
+          "inviteLink": "https://t.me/+ZIkudartVyM3OGU1",
+          "status": "active",
+          "createdAt": "2026-04-04T01:50:27.444Z",
+          "expiresAt": "2026-04-11T01:50:25.930Z"
+        },
+        {
+          "role": "partner",
+          "groupName": "RESELLER - Reseller otax",
+          "chatId": -1003217442049,
+          "inviteLink": "https://t.me/+LB4Uf93GOXg1M2Rl",
+          "status": "active",
+          "createdAt": "2026-04-04T01:50:27.803Z",
+          "expiresAt": "2026-04-11T01:50:25.930Z"
+        },
+        {
+          "role": "partner",
+          "groupName": "PT - Partner otax",
+          "chatId": -1003811959357,
+          "inviteLink": "https://t.me/+3B65Boa0v_s1ZGJl",
+          "status": "active",
+          "createdAt": "2026-04-04T01:50:28.159Z",
+          "expiresAt": "2026-04-11T01:50:25.930Z"
+        }
+      ]
     }
   },
   "reports": [
@@ -2971,7 +3000,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-04T01:50:25.930Z",
+    "updatedAt": "2026-04-04T01:50:28.675Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
@@ -3093,6 +3122,45 @@
       "status": "active",
       "createdAt": "2026-04-04T01:47:40.922Z",
       "expiresAt": "2026-04-11T01:47:38.990Z"
+    },
+    "https://t.me/+ZIkudartVyM3OGU1": {
+      "requestId": "1775267415452",
+      "requesterId": 8256619463,
+      "requesterUsername": "leakcuy",
+      "buyerUsername": "tesya",
+      "role": "partner",
+      "groupName": "FULLUP - Full Up otax",
+      "chatId": -1003629534517,
+      "inviteLink": "https://t.me/+ZIkudartVyM3OGU1",
+      "status": "active",
+      "createdAt": "2026-04-04T01:50:27.444Z",
+      "expiresAt": "2026-04-11T01:50:25.930Z"
+    },
+    "https://t.me/+LB4Uf93GOXg1M2Rl": {
+      "requestId": "1775267415452",
+      "requesterId": 8256619463,
+      "requesterUsername": "leakcuy",
+      "buyerUsername": "tesya",
+      "role": "partner",
+      "groupName": "RESELLER - Reseller otax",
+      "chatId": -1003217442049,
+      "inviteLink": "https://t.me/+LB4Uf93GOXg1M2Rl",
+      "status": "active",
+      "createdAt": "2026-04-04T01:50:27.803Z",
+      "expiresAt": "2026-04-11T01:50:25.930Z"
+    },
+    "https://t.me/+3B65Boa0v_s1ZGJl": {
+      "requestId": "1775267415452",
+      "requesterId": 8256619463,
+      "requesterUsername": "leakcuy",
+      "buyerUsername": "tesya",
+      "role": "partner",
+      "groupName": "PT - Partner otax",
+      "chatId": -1003811959357,
+      "inviteLink": "https://t.me/+3B65Boa0v_s1ZGJl",
+      "status": "active",
+      "createdAt": "2026-04-04T01:50:28.159Z",
+      "expiresAt": "2026-04-11T01:50:25.930Z"
     }
   }
 }
