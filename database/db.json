@@ -2387,6 +2387,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-04T15:34:34.745Z",
       "updatedAt": "2026-04-04T15:44:18.942Z"
+    },
+    "6484697408": {
+      "id": 6484697408,
+      "firstName": "⏤͟͟͞͞ 𝗧͢𝗿𝗶𝗽͢𝗹𝗲 𝗫 || 𝙯𝙮𝙪𝙪𝙣𝙤𝙩𝙙𝙚𝙫 ඩා",
+      "lastName": "",
+      "username": "zyunotdev",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-05T02:50:44.209Z",
+      "updatedAt": "2026-04-05T02:50:44.209Z"
     }
   },
   "botTokens": {
@@ -3096,7 +3108,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-05T02:50:40.161Z",
+    "updatedAt": "2026-04-05T02:50:44.209Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
