@@ -2459,6 +2459,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-06T06:43:05.841Z",
       "updatedAt": "2026-04-06T06:43:05.841Z"
+    },
+    "8203322425": {
+      "id": 8203322425,
+      "firstName": "𝗩𝗜𝗥𝗘𝗫𝗦𝗛𝗢𝗣 ⺓𝗩𝗩𝗜𝗣",
+      "lastName": "",
+      "username": "VireShop1",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-07T01:42:45.325Z",
+      "updatedAt": "2026-04-07T01:42:45.325Z"
     }
   },
   "botTokens": {
@@ -3168,7 +3180,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-07T00:07:45.688Z",
+    "updatedAt": "2026-04-07T01:42:45.325Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
