@@ -2663,6 +2663,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-10T10:52:12.736Z",
       "updatedAt": "2026-04-10T10:53:24.981Z"
+    },
+    "7512273058": {
+      "id": 7512273058,
+      "firstName": "𝕷𝖆𝖓𝖟𝖟 ハンサム🀄",
+      "lastName": "",
+      "username": "lanzz_xixi",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-10T13:33:35.206Z",
+      "updatedAt": "2026-04-10T13:33:35.206Z"
     }
   },
   "botTokens": {
@@ -3468,7 +3480,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-10T13:32:29.822Z",
+    "updatedAt": "2026-04-10T13:33:35.206Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
