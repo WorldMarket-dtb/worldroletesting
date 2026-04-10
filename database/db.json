@@ -2543,6 +2543,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-10T05:37:05.887Z",
       "updatedAt": "2026-04-10T06:26:23.227Z"
+    },
+    "8524118615": {
+      "id": 8524118615,
+      "firstName": "⏤͟͟͞͞𝔍𝔇𝔖 ﾒ HDYxCK ⸙⏤X‌‌‌𑲯𑲯𑲯,",
+      "lastName": "",
+      "username": "hdyxck",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-10T06:41:23.722Z",
+      "updatedAt": "2026-04-10T06:41:23.722Z"
     }
   },
   "botTokens": {
@@ -3348,7 +3360,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-10T06:37:38.397Z",
+    "updatedAt": "2026-04-10T06:41:23.722Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
