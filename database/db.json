@@ -60,6 +60,18 @@
       "createdAt": "2026-04-02T12:30:49.483Z",
       "updatedAt": "2026-04-02T12:41:13.590Z"
     },
+    "1160878385": {
+      "id": 1160878385,
+      "firstName": "Oktavian",
+      "lastName": "#𝘍𝘭𝘰𝘳𝘺 9%",
+      "username": "YanzzOffciall",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-10T13:42:22.841Z",
+      "updatedAt": "2026-04-10T13:42:22.841Z"
+    },
     "1185857331": {
       "id": 1185857331,
       "firstName": "𝙿𝙰𝙳𝙸𝙻 | 𝚅𝚃𝚇♞",
@@ -3492,7 +3504,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-10T13:42:19.885Z",
+    "updatedAt": "2026-04-10T13:42:22.841Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
