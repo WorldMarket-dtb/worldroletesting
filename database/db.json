@@ -2531,6 +2531,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-10T02:53:15.567Z",
       "updatedAt": "2026-04-10T03:07:33.422Z"
+    },
+    "8573484066": {
+      "id": 8573484066,
+      "firstName": "Dric Nty 𓂀",
+      "lastName": "",
+      "username": "xnnxdxrc",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-10T05:37:05.887Z",
+      "updatedAt": "2026-04-10T05:37:05.887Z"
     }
   },
   "botTokens": {
@@ -3336,7 +3348,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-10T05:36:18.887Z",
+    "updatedAt": "2026-04-10T05:37:05.887Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
