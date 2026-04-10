@@ -2555,6 +2555,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-10T06:41:23.722Z",
       "updatedAt": "2026-04-10T07:15:03.100Z"
+    },
+    "7501265313": {
+      "id": 7501265313,
+      "firstName": "𝐊𝐄𝐍𝐍𝐍𝐙?？",
+      "lastName": "",
+      "username": "kennnzshok",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-10T08:07:50.010Z",
+      "updatedAt": "2026-04-10T08:07:50.010Z"
     }
   },
   "botTokens": {
@@ -3360,7 +3372,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-10T08:05:02.188Z",
+    "updatedAt": "2026-04-10T08:07:50.010Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
