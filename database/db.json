@@ -192,6 +192,18 @@
       "createdAt": "2026-04-02T12:32:23.552Z",
       "updatedAt": "2026-04-02T12:32:50.088Z"
     },
+    "1551290068": {
+      "id": 1551290068,
+      "firstName": "⏤͟͟͞͞ 𝗧͢𝗿𝗶𝗽͢𝗹𝗲 𝗫 || 𝐓𝐑𝐈𝐙𝐙𝐕𝐔𝐂𝐊𝐊♱🕊",
+      "lastName": "",
+      "username": "TrizzMaklo",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-10T09:25:29.505Z",
+      "updatedAt": "2026-04-10T09:25:29.505Z"
+    },
     "1604297644": {
       "id": 1604297644,
       "firstName": "SanzXx",
@@ -3396,7 +3408,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-10T09:23:19.175Z",
+    "updatedAt": "2026-04-10T09:25:29.505Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
