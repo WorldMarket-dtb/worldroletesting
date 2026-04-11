@@ -3548,11 +3548,31 @@
       "caption": "",
       "status": "approved",
       "createdAt": "2026-04-11T12:34:39.083Z",
-      "updatedAt": "2026-04-11T12:34:54.024Z",
+      "updatedAt": "2026-04-11T12:34:57.298Z",
       "approvedBy": 8256619463,
       "approvedByUsername": "leakcuy",
       "finalPeriod": "permanent",
-      "expiresAt": null
+      "expiresAt": null,
+      "inviteLinks": [
+        {
+          "role": "reseller",
+          "groupName": "FULLUP - Full Up otax",
+          "chatId": -1003629534517,
+          "inviteLink": "https://t.me/+avysJWlYimw1NzE9",
+          "status": "active",
+          "createdAt": "2026-04-11T12:34:55.996Z",
+          "expiresAt": null
+        },
+        {
+          "role": "reseller",
+          "groupName": "RESELLER - Reseller otax",
+          "chatId": -1003217442049,
+          "inviteLink": "https://t.me/+kmcy170xKn5kNGQ9",
+          "status": "active",
+          "createdAt": "2026-04-11T12:34:56.347Z",
+          "expiresAt": null
+        }
+      ]
     }
   },
   "reports": [
@@ -3678,7 +3698,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-11T12:34:54.024Z",
+    "updatedAt": "2026-04-11T12:34:57.298Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
@@ -3942,6 +3962,32 @@
       "usedByUserId": 1551290068,
       "usedByUsername": "TrizzMaklo",
       "revokedAt": "2026-04-11T12:33:58.427Z"
+    },
+    "https://t.me/+avysJWlYimw1NzE9": {
+      "requestId": "1775910878135",
+      "requesterId": 8256619463,
+      "requesterUsername": "leakcuy",
+      "buyerUsername": "Dante96969",
+      "role": "reseller",
+      "groupName": "FULLUP - Full Up otax",
+      "chatId": -1003629534517,
+      "inviteLink": "https://t.me/+avysJWlYimw1NzE9",
+      "status": "active",
+      "createdAt": "2026-04-11T12:34:55.996Z",
+      "expiresAt": null
+    },
+    "https://t.me/+kmcy170xKn5kNGQ9": {
+      "requestId": "1775910878135",
+      "requesterId": 8256619463,
+      "requesterUsername": "leakcuy",
+      "buyerUsername": "Dante96969",
+      "role": "reseller",
+      "groupName": "RESELLER - Reseller otax",
+      "chatId": -1003217442049,
+      "inviteLink": "https://t.me/+kmcy170xKn5kNGQ9",
+      "status": "active",
+      "createdAt": "2026-04-11T12:34:56.347Z",
+      "expiresAt": null
     }
   }
 }
