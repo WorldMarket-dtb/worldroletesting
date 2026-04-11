@@ -3511,11 +3511,31 @@
       "caption": "",
       "status": "approved",
       "createdAt": "2026-04-11T12:32:33.311Z",
-      "updatedAt": "2026-04-11T12:33:02.214Z",
+      "updatedAt": "2026-04-11T12:33:05.518Z",
       "approvedBy": 8256619463,
       "approvedByUsername": "leakcuy",
       "finalPeriod": "permanent",
-      "expiresAt": null
+      "expiresAt": null,
+      "inviteLinks": [
+        {
+          "role": "reseller",
+          "groupName": "FULLUP - Full Up otax",
+          "chatId": -1003629534517,
+          "inviteLink": "https://t.me/+M5rfaEk3hXNhNDE1",
+          "status": "active",
+          "createdAt": "2026-04-11T12:33:04.212Z",
+          "expiresAt": null
+        },
+        {
+          "role": "reseller",
+          "groupName": "RESELLER - Reseller otax",
+          "chatId": -1003217442049,
+          "inviteLink": "https://t.me/+Lc-y7_o81pYwZDQ1",
+          "status": "active",
+          "createdAt": "2026-04-11T12:33:04.561Z",
+          "expiresAt": null
+        }
+      ]
     }
   },
   "reports": [
@@ -3641,7 +3661,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-11T12:33:02.214Z",
+    "updatedAt": "2026-04-11T12:33:05.518Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
@@ -3875,6 +3895,32 @@
       "usedByUserId": 8566543878,
       "usedByUsername": "Rafiiyy",
       "revokedAt": "2026-04-09T15:10:37.815Z"
+    },
+    "https://t.me/+M5rfaEk3hXNhNDE1": {
+      "requestId": "1775910752352",
+      "requesterId": 8256619463,
+      "requesterUsername": "leakcuy",
+      "buyerUsername": "TrizzMaklo",
+      "role": "reseller",
+      "groupName": "FULLUP - Full Up otax",
+      "chatId": -1003629534517,
+      "inviteLink": "https://t.me/+M5rfaEk3hXNhNDE1",
+      "status": "active",
+      "createdAt": "2026-04-11T12:33:04.212Z",
+      "expiresAt": null
+    },
+    "https://t.me/+Lc-y7_o81pYwZDQ1": {
+      "requestId": "1775910752352",
+      "requesterId": 8256619463,
+      "requesterUsername": "leakcuy",
+      "buyerUsername": "TrizzMaklo",
+      "role": "reseller",
+      "groupName": "RESELLER - Reseller otax",
+      "chatId": -1003217442049,
+      "inviteLink": "https://t.me/+Lc-y7_o81pYwZDQ1",
+      "status": "active",
+      "createdAt": "2026-04-11T12:33:04.561Z",
+      "expiresAt": null
     }
   }
 }
