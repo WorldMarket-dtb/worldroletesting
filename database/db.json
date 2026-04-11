@@ -72,6 +72,18 @@
       "createdAt": "2026-04-10T13:42:22.841Z",
       "updatedAt": "2026-04-10T13:43:59.047Z"
     },
+    "1163559615": {
+      "id": 1163559615,
+      "firstName": "ᯓ𝙉𝙖𝙮𝙡𝙖 𝙂𝙚𝙣𝙜𝙨𝙩𝙚𝙧 𝗫͢𝘅𝗫 𓇢𓆸",
+      "lastName": "",
+      "username": "Naylaajirr",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-11T12:56:43.513Z",
+      "updatedAt": "2026-04-11T12:56:43.513Z"
+    },
     "1185857331": {
       "id": 1185857331,
       "firstName": "𝙿𝙰𝙳𝙸𝙻 | 𝚅𝚃𝚇♞",
@@ -3698,7 +3710,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-11T12:56:19.332Z",
+    "updatedAt": "2026-04-11T12:56:43.513Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
