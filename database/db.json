@@ -3511,7 +3511,7 @@
       "caption": "",
       "status": "approved",
       "createdAt": "2026-04-11T12:32:33.311Z",
-      "updatedAt": "2026-04-11T12:33:05.518Z",
+      "updatedAt": "2026-04-11T12:33:58.427Z",
       "approvedBy": 8256619463,
       "approvedByUsername": "leakcuy",
       "finalPeriod": "permanent",
@@ -3531,7 +3531,7 @@
           "groupName": "RESELLER - Reseller otax",
           "chatId": -1003217442049,
           "inviteLink": "https://t.me/+Lc-y7_o81pYwZDQ1",
-          "status": "active",
+          "status": "joined",
           "createdAt": "2026-04-11T12:33:04.561Z",
           "expiresAt": null
         }
@@ -3661,7 +3661,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-11T12:33:56.071Z",
+    "updatedAt": "2026-04-11T12:33:58.427Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
@@ -3918,9 +3918,13 @@
       "groupName": "RESELLER - Reseller otax",
       "chatId": -1003217442049,
       "inviteLink": "https://t.me/+Lc-y7_o81pYwZDQ1",
-      "status": "active",
+      "status": "joined",
       "createdAt": "2026-04-11T12:33:04.561Z",
-      "expiresAt": null
+      "expiresAt": null,
+      "joinedAt": "2026-04-11T12:33:58.427Z",
+      "usedByUserId": 1551290068,
+      "usedByUsername": "TrizzMaklo",
+      "revokedAt": "2026-04-11T12:33:58.427Z"
     }
   }
 }
