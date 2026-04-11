@@ -2783,6 +2783,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-11T10:27:48.609Z",
       "updatedAt": "2026-04-11T11:49:17.331Z"
+    },
+    "8204009142": {
+      "id": 8204009142,
+      "firstName": "ball el sawit",
+      "lastName": "",
+      "username": "ballgntng",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-11T11:59:18.514Z",
+      "updatedAt": "2026-04-11T11:59:18.514Z"
     }
   },
   "botTokens": {
@@ -3588,7 +3600,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-11T11:56:34.510Z",
+    "updatedAt": "2026-04-11T11:59:18.514Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
