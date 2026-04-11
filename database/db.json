@@ -2759,6 +2759,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-11T00:26:42.419Z",
       "updatedAt": "2026-04-11T00:27:05.692Z"
+    },
+    "7823888604": {
+      "id": 7823888604,
+      "firstName": "𝐅𝐨𝐫𝐀𝐥𝐰𝐲𝐬 𝐓𝟓 ♠",
+      "lastName": "",
+      "username": "ForAlwys",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-11T10:27:37.121Z",
+      "updatedAt": "2026-04-11T10:27:37.121Z"
     }
   },
   "botTokens": {
@@ -3564,7 +3576,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-11T10:27:32.272Z",
+    "updatedAt": "2026-04-11T10:27:37.121Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
