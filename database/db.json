@@ -2903,6 +2903,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-11T20:23:30.260Z",
       "updatedAt": "2026-04-11T20:23:30.260Z"
+    },
+    "6464541455": {
+      "id": 6464541455,
+      "firstName": "𝘾𝙧𝙞𝙢𝙨𝙤𝙣𝙇𝙮𝙤𝙧𝙖𝙖",
+      "lastName": "( Limited Edition )",
+      "username": "CrimsonNightmaree",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-12T00:30:55.543Z",
+      "updatedAt": "2026-04-12T00:30:55.543Z"
     }
   },
   "botTokens": {
@@ -3782,7 +3794,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-12T00:30:20.506Z",
+    "updatedAt": "2026-04-12T00:30:55.543Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
