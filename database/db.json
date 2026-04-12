@@ -2975,6 +2975,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-12T05:50:59.920Z",
       "updatedAt": "2026-04-12T06:08:14.236Z"
+    },
+    "6560592285": {
+      "id": 6560592285,
+      "firstName": "♞ 𝐋𝐞𝐚𝐦𝐨𝐫 𝐙𝐮𝐧𝐧",
+      "lastName": "",
+      "username": "zunncrash",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-12T06:08:34.152Z",
+      "updatedAt": "2026-04-12T06:08:34.152Z"
     }
   },
   "botTokens": {
@@ -4109,7 +4121,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-12T06:08:31.827Z",
+    "updatedAt": "2026-04-12T06:08:34.152Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
