@@ -3705,11 +3705,22 @@
       "caption": "",
       "status": "approved",
       "createdAt": "2026-04-12T03:42:18.153Z",
-      "updatedAt": "2026-04-12T03:42:26.891Z",
+      "updatedAt": "2026-04-12T03:42:28.814Z",
       "approvedBy": 8256619463,
       "approvedByUsername": "leakcuy",
       "finalPeriod": "permanent",
-      "expiresAt": null
+      "expiresAt": null,
+      "inviteLinks": [
+        {
+          "role": "full_up",
+          "groupName": "FULLUP - Full Up otax",
+          "chatId": -1003629534517,
+          "inviteLink": "https://t.me/+cNGscfzVjFViMzU1",
+          "status": "active",
+          "createdAt": "2026-04-12T03:42:28.500Z",
+          "expiresAt": null
+        }
+      ]
     }
   },
   "reports": [
@@ -3835,7 +3846,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-12T03:42:26.891Z",
+    "updatedAt": "2026-04-12T03:42:28.814Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
@@ -4129,6 +4140,19 @@
       "usedByUserId": 8717217416,
       "usedByUsername": "Dante96969",
       "revokedAt": "2026-04-11T12:35:52.522Z"
+    },
+    "https://t.me/+cNGscfzVjFViMzU1": {
+      "requestId": "1775965337225",
+      "requesterId": 8256619463,
+      "requesterUsername": "leakcuy",
+      "buyerUsername": "upuycit",
+      "role": "full_up",
+      "groupName": "FULLUP - Full Up otax",
+      "chatId": -1003629534517,
+      "inviteLink": "https://t.me/+cNGscfzVjFViMzU1",
+      "status": "active",
+      "createdAt": "2026-04-12T03:42:28.500Z",
+      "expiresAt": null
     }
   }
 }
