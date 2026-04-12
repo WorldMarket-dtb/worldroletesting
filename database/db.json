@@ -3077,12 +3077,12 @@
       "firstName": "𝘿𝙚𝙤",
       "lastName": "𝘼𝙩𝙩𝙖𝙘𝙠",
       "username": "deoanakmamak",
-      "role": null,
-      "tokenQuota": 0,
+      "role": "reseller",
+      "tokenQuota": 3,
       "tokensUsed": 0,
-      "tokensAvailable": 0,
+      "tokensAvailable": 3,
       "createdAt": "2026-04-12T14:48:42.063Z",
-      "updatedAt": "2026-04-12T14:48:52.151Z"
+      "updatedAt": "2026-04-12T14:51:20.173Z"
     }
   },
   "botTokens": {
@@ -4382,7 +4382,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-12T14:48:52.151Z",
+    "updatedAt": "2026-04-12T14:51:20.173Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
