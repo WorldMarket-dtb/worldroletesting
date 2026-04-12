@@ -84,6 +84,18 @@
       "createdAt": "2026-04-11T12:56:43.513Z",
       "updatedAt": "2026-04-11T14:08:58.462Z"
     },
+    "1168780486": {
+      "id": 1168780486,
+      "firstName": "𝗛𝗼𝘅𝘁𝗲𝗻𝗛𝗮𝗳𝘇",
+      "lastName": "",
+      "username": "",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-12T16:09:31.615Z",
+      "updatedAt": "2026-04-12T16:09:31.615Z"
+    },
     "1185857331": {
       "id": 1185857331,
       "firstName": "𝙿𝙰𝙳𝙸𝙻 | 𝚅𝚃𝚇♞",
@@ -4382,7 +4394,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-12T15:09:16.358Z",
+    "updatedAt": "2026-04-12T16:09:31.615Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
