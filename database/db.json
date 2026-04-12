@@ -2966,15 +2966,15 @@
     },
     "7715647702": {
       "id": 7715647702,
-      "firstName": "maisya",
-      "lastName": "fitri",
+      "firstName": "Ezy",
+      "lastName": "odrizal",
       "username": "Ezyodrizal",
       "role": null,
       "tokenQuota": 0,
       "tokensUsed": 0,
       "tokensAvailable": 0,
       "createdAt": "2026-04-12T05:50:59.920Z",
-      "updatedAt": "2026-04-12T06:24:16.633Z"
+      "updatedAt": "2026-04-12T06:25:56.801Z"
     },
     "6560592285": {
       "id": 6560592285,
@@ -4133,7 +4133,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-12T06:25:54.385Z",
+    "updatedAt": "2026-04-12T06:25:56.801Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
