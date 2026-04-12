@@ -3705,7 +3705,7 @@
       "caption": "",
       "status": "approved",
       "createdAt": "2026-04-12T03:42:18.153Z",
-      "updatedAt": "2026-04-12T03:42:28.814Z",
+      "updatedAt": "2026-04-12T03:43:18.471Z",
       "approvedBy": 8256619463,
       "approvedByUsername": "leakcuy",
       "finalPeriod": "permanent",
@@ -3716,7 +3716,7 @@
           "groupName": "FULLUP - Full Up otax",
           "chatId": -1003629534517,
           "inviteLink": "https://t.me/+cNGscfzVjFViMzU1",
-          "status": "active",
+          "status": "joined",
           "createdAt": "2026-04-12T03:42:28.500Z",
           "expiresAt": null
         }
@@ -3846,7 +3846,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-12T03:42:28.814Z",
+    "updatedAt": "2026-04-12T03:43:18.471Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
@@ -4150,9 +4150,13 @@
       "groupName": "FULLUP - Full Up otax",
       "chatId": -1003629534517,
       "inviteLink": "https://t.me/+cNGscfzVjFViMzU1",
-      "status": "active",
+      "status": "joined",
       "createdAt": "2026-04-12T03:42:28.500Z",
-      "expiresAt": null
+      "expiresAt": null,
+      "joinedAt": "2026-04-12T03:43:18.471Z",
+      "usedByUserId": 8360625831,
+      "usedByUsername": "upuycit",
+      "revokedAt": "2026-04-12T03:43:18.471Z"
     }
   }
 }
