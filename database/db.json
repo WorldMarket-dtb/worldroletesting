@@ -1745,12 +1745,12 @@
       "firstName": "⏤‌‌‌𝗠𝗮́𝗱𝘇𝘇𝗩𝗼𝗶𝗱❕ㅤ",
       "lastName": "",
       "username": "Madzz0011",
-      "role": "partner",
-      "tokenQuota": 4,
+      "role": null,
+      "tokenQuota": 0,
       "tokensUsed": 0,
-      "tokensAvailable": 4,
+      "tokensAvailable": 0,
       "createdAt": "2026-04-02T10:36:33.345Z",
-      "updatedAt": "2026-04-02T12:58:53.749Z"
+      "updatedAt": "2026-04-12T14:15:01.496Z"
     },
     "7387811645": {
       "id": 7387811645,
@@ -4370,7 +4370,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-12T14:14:58.683Z",
+    "updatedAt": "2026-04-12T14:15:01.496Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
