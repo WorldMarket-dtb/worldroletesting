@@ -1901,12 +1901,12 @@
       "firstName": "Dev ril Dev epep",
       "lastName": "",
       "username": "ytdevaoffc",
-      "role": "partner",
-      "tokenQuota": 4,
+      "role": null,
+      "tokenQuota": 0,
       "tokensUsed": 0,
-      "tokensAvailable": 4,
+      "tokensAvailable": 0,
       "createdAt": "2026-04-02T12:31:37.853Z",
-      "updatedAt": "2026-04-02T12:39:14.200Z"
+      "updatedAt": "2026-04-12T14:14:43.476Z"
     },
     "8265516475": {
       "id": 8265516475,
@@ -4370,7 +4370,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-12T14:12:09.075Z",
+    "updatedAt": "2026-04-12T14:14:43.476Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
