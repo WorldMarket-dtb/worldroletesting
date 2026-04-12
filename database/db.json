@@ -3804,9 +3804,13 @@
       "requestedPeriod": "permanent",
       "photoFileId": "AgACAgUAAxkBAANradssihOD4GYfa5GsgKKmeUk9LyEAAloOaxuS89lWkJhPWEWQB-QBAAMCAAN5AAM7BA",
       "caption": "",
-      "status": "pending",
+      "status": "approved",
       "createdAt": "2026-04-12T05:24:45.682Z",
-      "updatedAt": "2026-04-12T05:24:45.682Z"
+      "updatedAt": "2026-04-12T05:25:19.854Z",
+      "approvedBy": 8256619463,
+      "approvedByUsername": "leakcuy",
+      "finalPeriod": "permanent",
+      "expiresAt": null
     }
   },
   "reports": [
@@ -3932,7 +3936,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-12T05:24:45.682Z",
+    "updatedAt": "2026-04-12T05:25:19.854Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
