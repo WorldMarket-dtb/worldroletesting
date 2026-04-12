@@ -2987,6 +2987,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-12T06:08:34.152Z",
       "updatedAt": "2026-04-12T06:08:46.592Z"
+    },
+    "8321699079": {
+      "id": 8321699079,
+      "firstName": "𝘼𝙇𝙑𝘼𝙍𝙊 || 𝐓𝟓",
+      "lastName": "",
+      "username": "AlvaroIs",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-12T06:25:54.385Z",
+      "updatedAt": "2026-04-12T06:25:54.385Z"
     }
   },
   "botTokens": {
@@ -4121,7 +4133,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-12T06:24:16.633Z",
+    "updatedAt": "2026-04-12T06:25:54.385Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
