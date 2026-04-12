@@ -3748,6 +3748,19 @@
       "updatedAt": "2026-04-12T04:53:05.801Z",
       "rejectedBy": 8256619463,
       "rejectedByUsername": "leakcuy"
+    },
+    "1775971217981": {
+      "id": "1775971217981",
+      "requesterId": 8256619463,
+      "requesterUsername": "leakcuy",
+      "role": "partner",
+      "buyerUsername": "banzcungpret",
+      "requestedPeriod": "permanent",
+      "photoFileId": "AgACAgUAAxkBAANUadsk7HYfaRU-45fZ7aPnzr4W4s4AAkkOaxuS89lWODgZzgEZmQcBAAMCAAN5AAM7BA",
+      "caption": "",
+      "status": "pending",
+      "createdAt": "2026-04-12T05:20:18.938Z",
+      "updatedAt": "2026-04-12T05:20:18.938Z"
     }
   },
   "reports": [
@@ -3873,7 +3886,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-12T05:20:15.859Z",
+    "updatedAt": "2026-04-12T05:20:18.938Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
