@@ -2963,6 +2963,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-12T05:33:42.805Z",
       "updatedAt": "2026-04-12T05:40:44.885Z"
+    },
+    "7715647702": {
+      "id": 7715647702,
+      "firstName": "maisya",
+      "lastName": "fitri",
+      "username": "Ezyodrizal",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-12T05:50:59.920Z",
+      "updatedAt": "2026-04-12T05:50:59.920Z"
     }
   },
   "botTokens": {
@@ -4097,7 +4109,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-12T05:50:49.148Z",
+    "updatedAt": "2026-04-12T05:50:59.920Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
