@@ -2939,6 +2939,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-12T01:42:08.338Z",
       "updatedAt": "2026-04-12T01:42:08.338Z"
+    },
+    "8360625831": {
+      "id": 8360625831,
+      "firstName": "JEK{CEO}",
+      "lastName": "",
+      "username": "upuycit",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-12T03:43:35.595Z",
+      "updatedAt": "2026-04-12T03:43:35.595Z"
     }
   },
   "botTokens": {
@@ -3846,7 +3858,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-12T03:43:18.471Z",
+    "updatedAt": "2026-04-12T03:43:35.595Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
