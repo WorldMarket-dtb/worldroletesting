@@ -1709,12 +1709,12 @@
       "firstName": "EL PHP",
       "lastName": "",
       "username": "kipramarket",
-      "role": "partner",
-      "tokenQuota": 4,
+      "role": null,
+      "tokenQuota": 0,
       "tokensUsed": 0,
-      "tokensAvailable": 4,
+      "tokensAvailable": 0,
       "createdAt": "2026-04-02T10:34:35.127Z",
-      "updatedAt": "2026-04-02T12:42:22.646Z"
+      "updatedAt": "2026-04-12T14:15:10.485Z"
     },
     "8040463739": {
       "id": 8040463739,
@@ -4370,7 +4370,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-12T14:15:06.584Z",
+    "updatedAt": "2026-04-12T14:15:10.485Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
