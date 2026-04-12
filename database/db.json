@@ -3941,7 +3941,7 @@
       "caption": "",
       "status": "approved",
       "createdAt": "2026-04-12T05:50:06.918Z",
-      "updatedAt": "2026-04-12T05:51:25.350Z",
+      "updatedAt": "2026-04-12T05:51:36.062Z",
       "approvedBy": 8256619463,
       "approvedByUsername": "leakcuy",
       "finalPeriod": "permanent",
@@ -3979,7 +3979,7 @@
           "groupName": "TK - Tangan Kanan otax",
           "chatId": -1003964754181,
           "inviteLink": "https://t.me/+Xn1dFlcI8DEzYmI1",
-          "status": "active",
+          "status": "joined",
           "createdAt": "2026-04-12T05:50:18.658Z",
           "expiresAt": null
         }
@@ -4109,7 +4109,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-12T05:51:25.350Z",
+    "updatedAt": "2026-04-12T05:51:36.062Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
@@ -4606,9 +4606,13 @@
       "groupName": "TK - Tangan Kanan otax",
       "chatId": -1003964754181,
       "inviteLink": "https://t.me/+Xn1dFlcI8DEzYmI1",
-      "status": "active",
+      "status": "joined",
       "createdAt": "2026-04-12T05:50:18.658Z",
-      "expiresAt": null
+      "expiresAt": null,
+      "joinedAt": "2026-04-12T05:51:36.062Z",
+      "usedByUserId": 7705334996,
+      "usedByUsername": "leaknich",
+      "revokedAt": "2026-04-12T05:51:36.062Z"
     }
   }
 }
