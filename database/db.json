@@ -2927,6 +2927,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-12T01:24:06.294Z",
       "updatedAt": "2026-04-12T01:24:06.294Z"
+    },
+    "7202956792": {
+      "id": 7202956792,
+      "firstName": "ADAM",
+      "lastName": "",
+      "username": "AdamXxiters",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-12T01:42:08.338Z",
+      "updatedAt": "2026-04-12T01:42:08.338Z"
     }
   },
   "botTokens": {
@@ -3806,7 +3818,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-12T01:42:06.242Z",
+    "updatedAt": "2026-04-12T01:42:08.338Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
