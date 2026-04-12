@@ -4202,11 +4202,49 @@
       "caption": "",
       "status": "approved",
       "createdAt": "2026-04-12T14:03:33.877Z",
-      "updatedAt": "2026-04-12T14:04:09.655Z",
+      "updatedAt": "2026-04-12T14:04:13.459Z",
       "approvedBy": 1781488013,
       "approvedByUsername": "BrianzNight",
       "finalPeriod": "permanent",
-      "expiresAt": null
+      "expiresAt": null,
+      "inviteLinks": [
+        {
+          "role": "tk",
+          "groupName": "FULLUP - Full Up Flow",
+          "chatId": -1003784154030,
+          "inviteLink": "https://t.me/+Lpl7Msv8vY9iY2I9",
+          "status": "active",
+          "createdAt": "2026-04-12T14:04:11.225Z",
+          "expiresAt": null
+        },
+        {
+          "role": "tk",
+          "groupName": "RESELLER - Reseller Flow",
+          "chatId": -1003805918215,
+          "inviteLink": "https://t.me/+25kBqq7jMvM5Mzk9",
+          "status": "active",
+          "createdAt": "2026-04-12T14:04:11.575Z",
+          "expiresAt": null
+        },
+        {
+          "role": "tk",
+          "groupName": "PT - Partner Flow",
+          "chatId": -1003819557905,
+          "inviteLink": "https://t.me/+HBXxpUQq16owOWNl",
+          "status": "active",
+          "createdAt": "2026-04-12T14:04:11.920Z",
+          "expiresAt": null
+        },
+        {
+          "role": "tk",
+          "groupName": "TK - Tangan Kanan Flow",
+          "chatId": -1003748956425,
+          "inviteLink": "https://t.me/+XNAPtmKLESRmN2I1",
+          "status": "active",
+          "createdAt": "2026-04-12T14:04:12.279Z",
+          "expiresAt": null
+        }
+      ]
     }
   },
   "reports": [
@@ -4332,7 +4370,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-12T14:04:09.657Z",
+    "updatedAt": "2026-04-12T14:04:13.459Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
@@ -4952,6 +4990,58 @@
       "usedByUserId": 6037887037,
       "usedByUsername": "ChinRealy",
       "revokedAt": "2026-04-12T13:56:02.741Z"
+    },
+    "https://t.me/+Lpl7Msv8vY9iY2I9": {
+      "requestId": "1776002613587",
+      "requesterId": 1781488013,
+      "requesterUsername": "BrianzNight",
+      "buyerUsername": "BrianzNight",
+      "role": "tk",
+      "groupName": "FULLUP - Full Up Flow",
+      "chatId": -1003784154030,
+      "inviteLink": "https://t.me/+Lpl7Msv8vY9iY2I9",
+      "status": "active",
+      "createdAt": "2026-04-12T14:04:11.225Z",
+      "expiresAt": null
+    },
+    "https://t.me/+25kBqq7jMvM5Mzk9": {
+      "requestId": "1776002613587",
+      "requesterId": 1781488013,
+      "requesterUsername": "BrianzNight",
+      "buyerUsername": "BrianzNight",
+      "role": "tk",
+      "groupName": "RESELLER - Reseller Flow",
+      "chatId": -1003805918215,
+      "inviteLink": "https://t.me/+25kBqq7jMvM5Mzk9",
+      "status": "active",
+      "createdAt": "2026-04-12T14:04:11.575Z",
+      "expiresAt": null
+    },
+    "https://t.me/+HBXxpUQq16owOWNl": {
+      "requestId": "1776002613587",
+      "requesterId": 1781488013,
+      "requesterUsername": "BrianzNight",
+      "buyerUsername": "BrianzNight",
+      "role": "tk",
+      "groupName": "PT - Partner Flow",
+      "chatId": -1003819557905,
+      "inviteLink": "https://t.me/+HBXxpUQq16owOWNl",
+      "status": "active",
+      "createdAt": "2026-04-12T14:04:11.920Z",
+      "expiresAt": null
+    },
+    "https://t.me/+XNAPtmKLESRmN2I1": {
+      "requestId": "1776002613587",
+      "requesterId": 1781488013,
+      "requesterUsername": "BrianzNight",
+      "buyerUsername": "BrianzNight",
+      "role": "tk",
+      "groupName": "TK - Tangan Kanan Flow",
+      "chatId": -1003748956425,
+      "inviteLink": "https://t.me/+XNAPtmKLESRmN2I1",
+      "status": "active",
+      "createdAt": "2026-04-12T14:04:12.279Z",
+      "expiresAt": null
     }
   }
 }
