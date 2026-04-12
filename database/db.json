@@ -3901,7 +3901,7 @@
       "caption": "",
       "status": "approved",
       "createdAt": "2026-04-12T05:47:22.260Z",
-      "updatedAt": "2026-04-12T05:47:38.175Z",
+      "updatedAt": "2026-04-12T05:50:36.645Z",
       "approvedBy": 8256619463,
       "approvedByUsername": "leakcuy",
       "finalPeriod": "permanent",
@@ -3912,7 +3912,7 @@
           "groupName": "FULLUP - Full Up otax",
           "chatId": -1003629534517,
           "inviteLink": "https://t.me/+6OmIlkELJik1Yzdl",
-          "status": "active",
+          "status": "joined",
           "createdAt": "2026-04-12T05:47:36.765Z",
           "expiresAt": null
         }
@@ -4097,7 +4097,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-12T05:50:30.545Z",
+    "updatedAt": "2026-04-12T05:50:36.646Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
@@ -4530,9 +4530,13 @@
       "groupName": "FULLUP - Full Up otax",
       "chatId": -1003629534517,
       "inviteLink": "https://t.me/+6OmIlkELJik1Yzdl",
-      "status": "active",
+      "status": "joined",
       "createdAt": "2026-04-12T05:47:36.765Z",
-      "expiresAt": null
+      "expiresAt": null,
+      "joinedAt": "2026-04-12T05:50:36.645Z",
+      "usedByUserId": 7715647702,
+      "usedByUsername": "Ezyodrizal",
+      "revokedAt": "2026-04-12T05:50:36.645Z"
     },
     "https://t.me/+H1rP3GE8EWVlOTk1": {
       "requestId": "1775973005951",
