@@ -3941,7 +3941,7 @@
       "caption": "",
       "status": "approved",
       "createdAt": "2026-04-12T05:50:06.918Z",
-      "updatedAt": "2026-04-12T05:51:18.499Z",
+      "updatedAt": "2026-04-12T05:51:25.350Z",
       "approvedBy": 8256619463,
       "approvedByUsername": "leakcuy",
       "finalPeriod": "permanent",
@@ -3970,7 +3970,7 @@
           "groupName": "PT - Partner otax",
           "chatId": -1003811959357,
           "inviteLink": "https://t.me/+-DHXfivpoj0yODVl",
-          "status": "active",
+          "status": "joined",
           "createdAt": "2026-04-12T05:50:18.304Z",
           "expiresAt": null
         },
@@ -4109,7 +4109,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-12T05:51:18.499Z",
+    "updatedAt": "2026-04-12T05:51:25.350Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
@@ -4589,9 +4589,13 @@
       "groupName": "PT - Partner otax",
       "chatId": -1003811959357,
       "inviteLink": "https://t.me/+-DHXfivpoj0yODVl",
-      "status": "active",
+      "status": "joined",
       "createdAt": "2026-04-12T05:50:18.304Z",
-      "expiresAt": null
+      "expiresAt": null,
+      "joinedAt": "2026-04-12T05:51:25.350Z",
+      "usedByUserId": 7705334996,
+      "usedByUsername": "leaknich",
+      "revokedAt": "2026-04-12T05:51:25.350Z"
     },
     "https://t.me/+Xn1dFlcI8DEzYmI1": {
       "requestId": "1775973005951",
