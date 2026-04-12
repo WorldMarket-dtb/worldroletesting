@@ -3941,7 +3941,7 @@
       "caption": "",
       "status": "approved",
       "createdAt": "2026-04-12T05:50:06.918Z",
-      "updatedAt": "2026-04-12T05:50:19.639Z",
+      "updatedAt": "2026-04-12T05:51:18.499Z",
       "approvedBy": 8256619463,
       "approvedByUsername": "leakcuy",
       "finalPeriod": "permanent",
@@ -3961,7 +3961,7 @@
           "groupName": "RESELLER - Reseller otax",
           "chatId": -1003217442049,
           "inviteLink": "https://t.me/+F5Bk2iYlhnozMmQ1",
-          "status": "active",
+          "status": "joined",
           "createdAt": "2026-04-12T05:50:17.928Z",
           "expiresAt": null
         },
@@ -4109,7 +4109,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-12T05:51:16.355Z",
+    "updatedAt": "2026-04-12T05:51:18.499Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
@@ -4572,9 +4572,13 @@
       "groupName": "RESELLER - Reseller otax",
       "chatId": -1003217442049,
       "inviteLink": "https://t.me/+F5Bk2iYlhnozMmQ1",
-      "status": "active",
+      "status": "joined",
       "createdAt": "2026-04-12T05:50:17.928Z",
-      "expiresAt": null
+      "expiresAt": null,
+      "joinedAt": "2026-04-12T05:51:18.499Z",
+      "usedByUserId": 7705334996,
+      "usedByUsername": "leaknich",
+      "revokedAt": "2026-04-12T05:51:18.499Z"
     },
     "https://t.me/+-DHXfivpoj0yODVl": {
       "requestId": "1775973005951",
