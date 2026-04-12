@@ -252,6 +252,18 @@
       "createdAt": "2026-04-02T09:11:39.750Z",
       "updatedAt": "2026-04-02T12:42:27.539Z"
     },
+    "1613818989": {
+      "id": 1613818989,
+      "firstName": "veconix",
+      "lastName": "",
+      "username": "",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-12T08:22:08.958Z",
+      "updatedAt": "2026-04-12T08:22:08.958Z"
+    },
     "1637638124": {
       "id": 1637638124,
       "firstName": "𝖬𝗂𝖺 𝖮𝖿𝖿𝗂𝖼𝗂𝖺𝗅 [ 𝖺𝗅𝗅 𝗍𝗋𝗑 𝗈𝗉𝖾𝗇 ] 𝐓𝟓",
@@ -4133,7 +4145,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-12T08:19:38.244Z",
+    "updatedAt": "2026-04-12T08:22:08.958Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
