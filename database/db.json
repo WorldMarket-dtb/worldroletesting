@@ -3095,6 +3095,18 @@
       "tokensAvailable": 3,
       "createdAt": "2026-04-12T14:48:42.063Z",
       "updatedAt": "2026-04-12T14:51:31.986Z"
+    },
+    "7277916423": {
+      "id": 7277916423,
+      "firstName": "ᯓ𝐀𝐂𝐍𝐂 || 𝗔𝗮𝗸𝘀 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥𝐊𝐮𝐮",
+      "lastName": "",
+      "username": "cyberprime98",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-13T02:09:31.684Z",
+      "updatedAt": "2026-04-13T02:09:31.684Z"
     }
   },
   "botTokens": {
@@ -4394,7 +4406,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-12T16:09:31.615Z",
+    "updatedAt": "2026-04-13T02:09:31.684Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
