@@ -1,5 +1,17 @@
 {
   "users": {
+    "413203137": {
+      "id": 413203137,
+      "firstName": "RIZHUYOUKA 𝐓𝟓",
+      "lastName": "",
+      "username": "RIZHUYOUKA_OFFICIAL",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-16T06:22:15.956Z",
+      "updatedAt": "2026-04-16T06:22:15.970Z"
+    },
     "426926007": {
       "id": 426926007,
       "firstName": "⏤𝗧𝘂𝗿𝘇𝘇❕",
@@ -4406,7 +4418,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-15T23:17:14.267Z",
+    "updatedAt": "2026-04-16T06:22:15.970Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
