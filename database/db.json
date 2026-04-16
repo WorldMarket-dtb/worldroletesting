@@ -3119,6 +3119,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-13T02:09:31.684Z",
       "updatedAt": "2026-04-15T15:03:37.410Z"
+    },
+    "6532051395": {
+      "id": 6532051395,
+      "firstName": "乂 Apongg (LAGI SAKIT)",
+      "lastName": "",
+      "username": "ApongSkt",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-16T07:56:05.910Z",
+      "updatedAt": "2026-04-16T07:56:05.913Z"
     }
   },
   "botTokens": {
@@ -4418,7 +4430,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-16T06:22:15.970Z",
+    "updatedAt": "2026-04-16T07:56:05.913Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
