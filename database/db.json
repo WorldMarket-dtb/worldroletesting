@@ -3131,6 +3131,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-16T07:56:05.910Z",
       "updatedAt": "2026-04-16T07:56:05.913Z"
+    },
+    "8473942705": {
+      "id": 8473942705,
+      "firstName": "—͟͞͞𝙎𝘼𝙇𝙕𝙕 私",
+      "lastName": "",
+      "username": "SalzzTzy",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-18T04:29:12.053Z",
+      "updatedAt": "2026-04-18T04:29:12.056Z"
     }
   },
   "botTokens": {
@@ -4430,7 +4442,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-17T16:00:14.604Z",
+    "updatedAt": "2026-04-18T04:29:12.056Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
