@@ -4384,11 +4384,22 @@
       "caption": "",
       "status": "approved",
       "createdAt": "2026-04-20T14:44:42.250Z",
-      "updatedAt": "2026-04-20T14:44:56.533Z",
+      "updatedAt": "2026-04-20T14:44:59.760Z",
       "approvedBy": 1781488013,
       "approvedByUsername": "BrianzNight",
       "finalPeriod": "permanent",
-      "expiresAt": null
+      "expiresAt": null,
+      "inviteLinks": [
+        {
+          "role": "full_up",
+          "groupName": "FULLUP - Full Up Flow",
+          "chatId": -1003784154030,
+          "inviteLink": "https://t.me/+blMmAgo3ntE3ZTA1",
+          "status": "active",
+          "createdAt": "2026-04-20T14:44:58.474Z",
+          "expiresAt": null
+        }
+      ]
     }
   },
   "reports": [
@@ -4514,7 +4525,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-20T14:44:56.537Z",
+    "updatedAt": "2026-04-20T14:44:59.760Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
@@ -5203,6 +5214,19 @@
       "usedByUserId": 8681966416,
       "usedByUsername": "IKBALHARD097",
       "revokedAt": "2026-04-20T14:39:22.168Z"
+    },
+    "https://t.me/+blMmAgo3ntE3ZTA1": {
+      "requestId": "1776696280645",
+      "requesterId": 1781488013,
+      "requesterUsername": "BrianzNight",
+      "buyerUsername": "putraapokee",
+      "role": "full_up",
+      "groupName": "FULLUP - Full Up Flow",
+      "chatId": -1003784154030,
+      "inviteLink": "https://t.me/+blMmAgo3ntE3ZTA1",
+      "status": "active",
+      "createdAt": "2026-04-20T14:44:58.474Z",
+      "expiresAt": null
     }
   }
 }
