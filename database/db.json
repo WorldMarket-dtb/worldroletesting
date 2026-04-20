@@ -4341,7 +4341,7 @@
       "caption": "",
       "status": "approved",
       "createdAt": "2026-04-20T14:19:21.018Z",
-      "updatedAt": "2026-04-20T14:32:58.309Z",
+      "updatedAt": "2026-04-20T14:39:22.168Z",
       "approvedBy": 1781488013,
       "approvedByUsername": "BrianzNight",
       "finalPeriod": "permanent",
@@ -4352,7 +4352,7 @@
           "groupName": "FULLUP - Full Up Flow",
           "chatId": -1003784154030,
           "inviteLink": "https://t.me/+SSPil-fGFJY5ZDg1",
-          "status": "active",
+          "status": "joined",
           "createdAt": "2026-04-20T14:32:57.008Z",
           "expiresAt": null
         }
@@ -4482,7 +4482,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-20T14:32:58.309Z",
+    "updatedAt": "2026-04-20T14:39:22.168Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
@@ -5164,9 +5164,13 @@
       "groupName": "FULLUP - Full Up Flow",
       "chatId": -1003784154030,
       "inviteLink": "https://t.me/+SSPil-fGFJY5ZDg1",
-      "status": "active",
+      "status": "joined",
       "createdAt": "2026-04-20T14:32:57.008Z",
-      "expiresAt": null
+      "expiresAt": null,
+      "joinedAt": "2026-04-20T14:39:22.168Z",
+      "usedByUserId": 8681966416,
+      "usedByUsername": "IKBALHARD097",
+      "revokedAt": "2026-04-20T14:39:22.168Z"
     }
   }
 }
