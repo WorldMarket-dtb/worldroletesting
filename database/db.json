@@ -4424,11 +4424,31 @@
       "caption": "",
       "status": "approved",
       "createdAt": "2026-04-20T15:16:31.348Z",
-      "updatedAt": "2026-04-20T15:16:37.875Z",
+      "updatedAt": "2026-04-20T15:16:41.239Z",
       "approvedBy": 1781488013,
       "approvedByUsername": "BrianzNight",
       "finalPeriod": "permanent",
-      "expiresAt": null
+      "expiresAt": null,
+      "inviteLinks": [
+        {
+          "role": "reseller",
+          "groupName": "FULLUP - Full Up Flow",
+          "chatId": -1003784154030,
+          "inviteLink": "https://t.me/+C4IxlpH9vao0MmNl",
+          "status": "active",
+          "createdAt": "2026-04-20T15:16:39.700Z",
+          "expiresAt": null
+        },
+        {
+          "role": "reseller",
+          "groupName": "RESELLER - Reseller Flow",
+          "chatId": -1003805918215,
+          "inviteLink": "https://t.me/+e8qK4jd-J6BiOThl",
+          "status": "active",
+          "createdAt": "2026-04-20T15:16:40.039Z",
+          "expiresAt": null
+        }
+      ]
     }
   },
   "reports": [
@@ -4554,7 +4574,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-20T15:16:37.875Z",
+    "updatedAt": "2026-04-20T15:16:41.239Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
@@ -5260,6 +5280,32 @@
       "usedByUserId": 1203081545,
       "usedByUsername": "putraapokee",
       "revokedAt": "2026-04-20T14:45:24.325Z"
+    },
+    "https://t.me/+C4IxlpH9vao0MmNl": {
+      "requestId": "1776698190752",
+      "requesterId": 1781488013,
+      "requesterUsername": "BrianzNight",
+      "buyerUsername": "putraapokee",
+      "role": "reseller",
+      "groupName": "FULLUP - Full Up Flow",
+      "chatId": -1003784154030,
+      "inviteLink": "https://t.me/+C4IxlpH9vao0MmNl",
+      "status": "active",
+      "createdAt": "2026-04-20T15:16:39.700Z",
+      "expiresAt": null
+    },
+    "https://t.me/+e8qK4jd-J6BiOThl": {
+      "requestId": "1776698190752",
+      "requesterId": 1781488013,
+      "requesterUsername": "BrianzNight",
+      "buyerUsername": "putraapokee",
+      "role": "reseller",
+      "groupName": "RESELLER - Reseller Flow",
+      "chatId": -1003805918215,
+      "inviteLink": "https://t.me/+e8qK4jd-J6BiOThl",
+      "status": "active",
+      "createdAt": "2026-04-20T15:16:40.039Z",
+      "expiresAt": null
     }
   }
 }
