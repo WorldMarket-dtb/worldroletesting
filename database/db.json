@@ -4339,9 +4339,13 @@
       "requestedPeriod": "permanent",
       "photoFileId": "AgACAgUAAxkBAAOvaeY1p4Bo95UocY_vXpoX2QRQS2wAAqMPaxu8nTlXXt8k0VhyKJgBAAMCAAN5AAM7BA",
       "caption": "",
-      "status": "pending",
+      "status": "approved",
       "createdAt": "2026-04-20T14:19:21.018Z",
-      "updatedAt": "2026-04-20T14:19:21.019Z"
+      "updatedAt": "2026-04-20T14:32:54.985Z",
+      "approvedBy": 1781488013,
+      "approvedByUsername": "BrianzNight",
+      "finalPeriod": "permanent",
+      "expiresAt": null
     }
   },
   "reports": [
@@ -4467,7 +4471,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-20T14:19:21.019Z",
+    "updatedAt": "2026-04-20T14:32:54.986Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
