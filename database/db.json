@@ -3191,6 +3191,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-21T12:41:23.843Z",
       "updatedAt": "2026-04-21T12:41:23.843Z"
+    },
+    "5695432819": {
+      "id": 5695432819,
+      "firstName": "⏤͟͟͞͞𝙈𝙤𝙧𝙖 𝖋𝖙 𝗫͢𝘅𝗫 ⎙",
+      "lastName": "",
+      "username": "RyzzAj5",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-21T13:29:21.433Z",
+      "updatedAt": "2026-04-21T13:29:21.433Z"
     }
   },
   "botTokens": {
@@ -4598,7 +4610,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-21T13:29:18.104Z",
+    "updatedAt": "2026-04-21T13:29:21.433Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
