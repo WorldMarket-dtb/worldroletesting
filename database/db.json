@@ -3167,6 +3167,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-18T04:29:12.053Z",
       "updatedAt": "2026-04-18T04:29:12.056Z"
+    },
+    "8492920613": {
+      "id": 8492920613,
+      "firstName": "⏤͟͟͞͞ 𝗧͢𝗿𝗶𝗽͜𝗹𝗲 𝗫 ☇ 𝑹𝒆𝒚𝒚",
+      "lastName": "",
+      "username": "Reyysayangemak",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-21T09:58:09.010Z",
+      "updatedAt": "2026-04-21T09:58:09.010Z"
     }
   },
   "botTokens": {
@@ -4574,7 +4586,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-21T09:34:40.467Z",
+    "updatedAt": "2026-04-21T09:58:09.010Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
