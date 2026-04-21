@@ -3179,6 +3179,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-21T09:58:09.010Z",
       "updatedAt": "2026-04-21T09:58:09.010Z"
+    },
+    "8133142936": {
+      "id": 8133142936,
+      "firstName": "𝗩𝗼𝗹𝗱𝗟𝘆𝗼𝗿𝗮𝗮 (𝗖𝗘𝗢) 🩸",
+      "lastName": "",
+      "username": "VoldCool",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-21T12:41:23.843Z",
+      "updatedAt": "2026-04-21T12:41:23.843Z"
     }
   },
   "botTokens": {
@@ -4586,7 +4598,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-21T12:40:49.366Z",
+    "updatedAt": "2026-04-21T12:41:23.843Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
