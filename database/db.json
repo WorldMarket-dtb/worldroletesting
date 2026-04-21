@@ -3137,12 +3137,12 @@
       "firstName": "Scofield_ID",
       "lastName": "",
       "username": "cyberprime98",
-      "role": null,
-      "tokenQuota": 0,
+      "role": "reseller",
+      "tokenQuota": 3,
       "tokensUsed": 0,
-      "tokensAvailable": 0,
+      "tokensAvailable": 3,
       "createdAt": "2026-04-13T02:09:31.684Z",
-      "updatedAt": "2026-04-21T14:14:11.023Z"
+      "updatedAt": "2026-04-21T22:56:07.682Z"
     },
     "6532051395": {
       "id": 6532051395,
@@ -4622,7 +4622,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-21T22:55:38.700Z",
+    "updatedAt": "2026-04-21T22:56:07.682Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
