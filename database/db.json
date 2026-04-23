@@ -3227,6 +3227,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-21T22:49:52.423Z",
       "updatedAt": "2026-04-21T23:38:14.981Z"
+    },
+    "7860574531": {
+      "id": 7860574531,
+      "firstName": "𝐀𝗥𝗧𝘇",
+      "lastName": "",
+      "username": "ArtzNDZz",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-23T12:44:58.558Z",
+      "updatedAt": "2026-04-23T12:44:58.561Z"
     }
   },
   "botTokens": {
@@ -4634,7 +4646,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-23T12:38:08.598Z",
+    "updatedAt": "2026-04-23T12:44:58.561Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
