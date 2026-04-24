@@ -1586,15 +1586,15 @@
     },
     "7584900113": {
       "id": 7584900113,
-      "firstName": "𝑹𝑬𝒀𝒀.🕸 || 涼泉 𖤍",
+      "firstName": "𝑹𝑬𝑳𝑳.🕸 || 涼泉 𖤍",
       "lastName": "",
-      "username": "REYNOTDEV",
+      "username": "RELLNOTDEVV",
       "role": null,
       "tokenQuota": 0,
       "tokensUsed": 0,
       "tokensAvailable": 0,
       "createdAt": "2026-04-02T10:21:41.407Z",
-      "updatedAt": "2026-04-02T10:21:41.407Z"
+      "updatedAt": "2026-04-24T10:47:46.528Z"
     },
     "5855596205": {
       "id": 5855596205,
@@ -4646,7 +4646,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-24T09:52:41.605Z",
+    "updatedAt": "2026-04-24T10:47:46.528Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
