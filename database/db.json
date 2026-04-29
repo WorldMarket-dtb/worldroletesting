@@ -4913,11 +4913,49 @@
       "caption": "",
       "status": "approved",
       "createdAt": "2026-04-29T22:29:51.269Z",
-      "updatedAt": "2026-04-29T22:29:57.403Z",
+      "updatedAt": "2026-04-29T22:30:01.730Z",
       "approvedBy": 1714282222,
       "approvedByUsername": "kiluaoffc",
       "finalPeriod": "permanent",
-      "expiresAt": null
+      "expiresAt": null,
+      "inviteLinks": [
+        {
+          "role": "tk",
+          "groupName": "FULLUP - Full Up dustine",
+          "chatId": -1003982522572,
+          "inviteLink": "https://t.me/+1B25Y6tWz_dmOGU9",
+          "status": "active",
+          "createdAt": "2026-04-29T22:29:59.465Z",
+          "expiresAt": null
+        },
+        {
+          "role": "tk",
+          "groupName": "RESELLER - Reseller dustine",
+          "chatId": -1003753584894,
+          "inviteLink": "https://t.me/+FKNszEwDX9Q5MTY1",
+          "status": "active",
+          "createdAt": "2026-04-29T22:29:59.813Z",
+          "expiresAt": null
+        },
+        {
+          "role": "tk",
+          "groupName": "PT - Partner dustine",
+          "chatId": -1003960850331,
+          "inviteLink": "https://t.me/+UP2qlOdA5K0xMDVl",
+          "status": "active",
+          "createdAt": "2026-04-29T22:30:00.152Z",
+          "expiresAt": null
+        },
+        {
+          "role": "tk",
+          "groupName": "TK - Tangan Kanan dustine",
+          "chatId": -1003903972484,
+          "inviteLink": "https://t.me/+ADJfOHkK694zNGE1",
+          "status": "active",
+          "createdAt": "2026-04-29T22:30:00.490Z",
+          "expiresAt": null
+        }
+      ]
     }
   },
   "reports": [
@@ -5043,7 +5081,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-29T22:29:57.403Z",
+    "updatedAt": "2026-04-29T22:30:01.730Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
@@ -5872,6 +5910,58 @@
       "inviteLink": "https://t.me/+xQkAnS7MDa83N2Vl",
       "status": "active",
       "createdAt": "2026-04-29T21:06:07.190Z",
+      "expiresAt": null
+    },
+    "https://t.me/+1B25Y6tWz_dmOGU9": {
+      "requestId": "1777501790075",
+      "requesterId": 1714282222,
+      "requesterUsername": "kiluaoffc",
+      "buyerUsername": "kiluastr1",
+      "role": "tk",
+      "groupName": "FULLUP - Full Up dustine",
+      "chatId": -1003982522572,
+      "inviteLink": "https://t.me/+1B25Y6tWz_dmOGU9",
+      "status": "active",
+      "createdAt": "2026-04-29T22:29:59.465Z",
+      "expiresAt": null
+    },
+    "https://t.me/+FKNszEwDX9Q5MTY1": {
+      "requestId": "1777501790075",
+      "requesterId": 1714282222,
+      "requesterUsername": "kiluaoffc",
+      "buyerUsername": "kiluastr1",
+      "role": "tk",
+      "groupName": "RESELLER - Reseller dustine",
+      "chatId": -1003753584894,
+      "inviteLink": "https://t.me/+FKNszEwDX9Q5MTY1",
+      "status": "active",
+      "createdAt": "2026-04-29T22:29:59.813Z",
+      "expiresAt": null
+    },
+    "https://t.me/+UP2qlOdA5K0xMDVl": {
+      "requestId": "1777501790075",
+      "requesterId": 1714282222,
+      "requesterUsername": "kiluaoffc",
+      "buyerUsername": "kiluastr1",
+      "role": "tk",
+      "groupName": "PT - Partner dustine",
+      "chatId": -1003960850331,
+      "inviteLink": "https://t.me/+UP2qlOdA5K0xMDVl",
+      "status": "active",
+      "createdAt": "2026-04-29T22:30:00.152Z",
+      "expiresAt": null
+    },
+    "https://t.me/+ADJfOHkK694zNGE1": {
+      "requestId": "1777501790075",
+      "requesterId": 1714282222,
+      "requesterUsername": "kiluaoffc",
+      "buyerUsername": "kiluastr1",
+      "role": "tk",
+      "groupName": "TK - Tangan Kanan dustine",
+      "chatId": -1003903972484,
+      "inviteLink": "https://t.me/+ADJfOHkK694zNGE1",
+      "status": "active",
+      "createdAt": "2026-04-29T22:30:00.490Z",
       "expiresAt": null
     }
   }
