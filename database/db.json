@@ -4818,9 +4818,13 @@
       "requestedPeriod": "permanent",
       "photoFileId": "AgACAgUAAxkBAANTafJ9YUNEoHQ458tUMTXgY4oDDO8AAjURaxvR-5BXiU3-2LhxjhYBAAMCAAN5AAM7BA",
       "caption": "",
-      "status": "pending",
+      "status": "approved",
       "createdAt": "2026-04-29T21:58:09.275Z",
-      "updatedAt": "2026-04-29T21:58:09.275Z"
+      "updatedAt": "2026-04-29T21:59:11.126Z",
+      "approvedBy": 1714282222,
+      "approvedByUsername": "kiluaoffc",
+      "finalPeriod": "permanent",
+      "expiresAt": null
     }
   },
   "reports": [
@@ -4946,7 +4950,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-29T21:58:09.275Z",
+    "updatedAt": "2026-04-29T21:59:11.126Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
