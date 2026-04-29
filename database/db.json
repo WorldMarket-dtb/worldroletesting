@@ -3335,6 +3335,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-29T20:40:53.019Z",
       "updatedAt": "2026-04-29T21:15:31.454Z"
+    },
+    "5645106146": {
+      "id": 5645106146,
+      "firstName": "⏤͟͟͞͞ 𝗧͢𝗿𝗶𝗽͢𝗹𝗲 𝗫 ||𝟮𝟲 |⏤͟͟͞͞కᡶ ✘ ||↯ 𝐄𝐱𝐩𝐥𝐨𝐢𝐭 || ALKALAM 𝗢'𝗰𝗼𝗻𝗻𝗲𝗿",
+      "lastName": "ϟ 𝐙𝐋𝐃 || 𝟏𝟔々",
+      "username": "alkalam_law",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-29T22:04:40.766Z",
+      "updatedAt": "2026-04-29T22:04:40.766Z"
     }
   },
   "botTokens": {
@@ -4963,7 +4975,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-29T22:04:37.015Z",
+    "updatedAt": "2026-04-29T22:04:40.766Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
