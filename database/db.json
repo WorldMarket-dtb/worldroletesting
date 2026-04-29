@@ -3359,6 +3359,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-29T22:41:18.530Z",
       "updatedAt": "2026-04-29T22:41:18.530Z"
+    },
+    "7562235033": {
+      "id": 7562235033,
+      "firstName": "⏤͟͟͞͞XVLT•7 ᯓ𝐃𝐎𝐂 || 𝐓𝐡𝐞𝐆𝐨𝐚𝐭 ☩ ⏤͟͟͞͞Xv7 || 𝓡（マイ委ラ➤",
+      "lastName": "",
+      "username": "ryuuodaaofc",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-29T22:51:28.983Z",
+      "updatedAt": "2026-04-29T22:51:28.984Z"
     }
   },
   "botTokens": {
@@ -5093,7 +5105,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-29T22:47:11.689Z",
+    "updatedAt": "2026-04-29T22:51:28.984Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
