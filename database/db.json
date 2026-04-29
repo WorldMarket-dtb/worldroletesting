@@ -4913,7 +4913,7 @@
       "caption": "",
       "status": "approved",
       "createdAt": "2026-04-29T22:29:51.269Z",
-      "updatedAt": "2026-04-29T22:30:01.730Z",
+      "updatedAt": "2026-04-29T22:30:42.548Z",
       "approvedBy": 1714282222,
       "approvedByUsername": "kiluaoffc",
       "finalPeriod": "permanent",
@@ -4933,7 +4933,7 @@
           "groupName": "RESELLER - Reseller dustine",
           "chatId": -1003753584894,
           "inviteLink": "https://t.me/+FKNszEwDX9Q5MTY1",
-          "status": "active",
+          "status": "joined",
           "createdAt": "2026-04-29T22:29:59.813Z",
           "expiresAt": null
         },
@@ -5081,7 +5081,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-29T22:30:01.730Z",
+    "updatedAt": "2026-04-29T22:30:42.548Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
@@ -5934,9 +5934,13 @@
       "groupName": "RESELLER - Reseller dustine",
       "chatId": -1003753584894,
       "inviteLink": "https://t.me/+FKNszEwDX9Q5MTY1",
-      "status": "active",
+      "status": "joined",
       "createdAt": "2026-04-29T22:29:59.813Z",
-      "expiresAt": null
+      "expiresAt": null,
+      "joinedAt": "2026-04-29T22:30:42.548Z",
+      "usedByUserId": 7739210317,
+      "usedByUsername": "kiluastr1",
+      "revokedAt": "2026-04-29T22:30:42.548Z"
     },
     "https://t.me/+UP2qlOdA5K0xMDVl": {
       "requestId": "1777501790075",
