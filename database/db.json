@@ -3347,6 +3347,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-29T22:04:40.766Z",
       "updatedAt": "2026-04-29T22:04:44.814Z"
+    },
+    "8402501339": {
+      "id": 8402501339,
+      "firstName": "ᯓNATHAN||BUY MURBUG[BUY PANEL DM AJA]💥",
+      "lastName": ".....",
+      "username": "jonnatha12",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-29T22:41:18.530Z",
+      "updatedAt": "2026-04-29T22:41:18.530Z"
     }
   },
   "botTokens": {
@@ -5081,7 +5093,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-29T22:31:57.775Z",
+    "updatedAt": "2026-04-29T22:41:18.530Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
