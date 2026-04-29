@@ -4606,11 +4606,22 @@
       "caption": "",
       "status": "approved",
       "createdAt": "2026-04-29T20:20:55.881Z",
-      "updatedAt": "2026-04-29T20:21:28.088Z",
+      "updatedAt": "2026-04-29T20:21:32.232Z",
       "approvedBy": 1714282222,
       "approvedByUsername": "kiluaoffc",
       "finalPeriod": "permanent",
-      "expiresAt": null
+      "expiresAt": null,
+      "inviteLinks": [
+        {
+          "role": "full_up",
+          "groupName": "FULLUP - Full Up DUSTINE",
+          "chatId": -1003982522572,
+          "inviteLink": "https://t.me/+Zxgm2Ffrnr5mODY1",
+          "status": "active",
+          "createdAt": "2026-04-29T20:21:30.698Z",
+          "expiresAt": null
+        }
+      ]
     }
   },
   "reports": [
@@ -4736,7 +4747,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-29T20:21:28.088Z",
+    "updatedAt": "2026-04-29T20:21:32.232Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
@@ -5472,6 +5483,19 @@
       "usedByUserId": 1203081545,
       "usedByUsername": "putraapokee",
       "revokedAt": "2026-04-20T15:17:19.152Z"
+    },
+    "https://t.me/+Zxgm2Ffrnr5mODY1": {
+      "requestId": "1777494054688",
+      "requesterId": 1714282222,
+      "requesterUsername": "kiluaoffc",
+      "buyerUsername": "kiluastr1",
+      "role": "full_up",
+      "groupName": "FULLUP - Full Up DUSTINE",
+      "chatId": -1003982522572,
+      "inviteLink": "https://t.me/+Zxgm2Ffrnr5mODY1",
+      "status": "active",
+      "createdAt": "2026-04-29T20:21:30.698Z",
+      "expiresAt": null
     }
   }
 }
