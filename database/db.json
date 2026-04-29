@@ -390,11 +390,11 @@
       "lastName": "",
       "username": "kiluaoffc",
       "createdAt": "2026-04-29T19:55:05.004Z",
-      "role": "HIGH OWNER",
+      "role": "owner",
       "tokenQuota": 8,
       "tokensUsed": 0,
       "tokensAvailable": 8,
-      "updatedAt": "2026-04-29T20:57:58.709Z"
+      "updatedAt": "2026-04-29T20:58:12.445Z"
     },
     "1716713444": {
       "id": 1716713444,
@@ -4846,7 +4846,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-29T20:57:58.710Z",
+    "updatedAt": "2026-04-29T20:58:12.445Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
