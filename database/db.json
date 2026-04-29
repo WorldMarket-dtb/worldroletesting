@@ -4913,7 +4913,7 @@
       "caption": "",
       "status": "approved",
       "createdAt": "2026-04-29T22:29:51.269Z",
-      "updatedAt": "2026-04-29T22:30:46.811Z",
+      "updatedAt": "2026-04-29T22:30:50.895Z",
       "approvedBy": 1714282222,
       "approvedByUsername": "kiluaoffc",
       "finalPeriod": "permanent",
@@ -4951,7 +4951,7 @@
           "groupName": "TK - Tangan Kanan dustine",
           "chatId": -1003903972484,
           "inviteLink": "https://t.me/+ADJfOHkK694zNGE1",
-          "status": "active",
+          "status": "joined",
           "createdAt": "2026-04-29T22:30:00.490Z",
           "expiresAt": null
         }
@@ -5081,7 +5081,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-29T22:30:46.811Z",
+    "updatedAt": "2026-04-29T22:30:50.895Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
@@ -5968,9 +5968,13 @@
       "groupName": "TK - Tangan Kanan dustine",
       "chatId": -1003903972484,
       "inviteLink": "https://t.me/+ADJfOHkK694zNGE1",
-      "status": "active",
+      "status": "joined",
       "createdAt": "2026-04-29T22:30:00.490Z",
-      "expiresAt": null
+      "expiresAt": null,
+      "joinedAt": "2026-04-29T22:30:50.895Z",
+      "usedByUserId": 7739210317,
+      "usedByUsername": "kiluastr1",
+      "revokedAt": "2026-04-29T22:30:50.895Z"
     }
   }
 }
