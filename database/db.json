@@ -4788,7 +4788,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-29T20:31:21.931Z",
+    "updatedAt": "2026-04-29T20:35:33.003Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
@@ -5534,9 +5534,12 @@
       "groupName": "FULLUP - Full Up DUSTINE",
       "chatId": -1003982522572,
       "inviteLink": "https://t.me/+Zxgm2Ffrnr5mODY1",
-      "status": "active",
+      "status": "rejected_mismatch",
       "createdAt": "2026-04-29T20:21:30.698Z",
-      "expiresAt": null
+      "expiresAt": null,
+      "lastJoinAttemptAt": "2026-04-29T20:35:33.003Z",
+      "lastJoinAttemptUserId": 8750473068,
+      "lastJoinAttemptUsername": ""
     }
   }
 }
