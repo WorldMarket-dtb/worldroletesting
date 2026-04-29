@@ -180,6 +180,18 @@
       "createdAt": "2026-04-02T10:08:04.312Z",
       "updatedAt": "2026-04-02T10:08:08.883Z"
     },
+    "1228637083": {
+      "id": 1228637083,
+      "firstName": "𝚃𝙰𝙽𝚃𝙴 𝙺𝙸𝙰",
+      "lastName": "",
+      "username": "Kiaaje",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-29T23:25:18.037Z",
+      "updatedAt": "2026-04-29T23:25:18.037Z"
+    },
     "1247557080": {
       "id": 1247557080,
       "firstName": "⏤͟͟͞𝙈£K|| Raja𓇢𓆸 (OPEN MANTA')",
@@ -5117,7 +5129,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-29T23:07:04.080Z",
+    "updatedAt": "2026-04-29T23:25:18.037Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
