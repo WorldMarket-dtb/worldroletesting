@@ -3455,6 +3455,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-30T02:30:44.223Z",
       "updatedAt": "2026-04-30T02:30:51.127Z"
+    },
+    "8254797425": {
+      "id": 8254797425,
+      "firstName": "Sakira my love citra",
+      "lastName": "",
+      "username": "",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-30T03:04:40.079Z",
+      "updatedAt": "2026-04-30T03:04:40.079Z"
     }
   },
   "botTokens": {
@@ -5189,7 +5201,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-30T02:47:11.751Z",
+    "updatedAt": "2026-04-30T03:04:40.079Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
