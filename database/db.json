@@ -276,6 +276,18 @@
       "createdAt": "2026-04-02T10:00:20.159Z",
       "updatedAt": "2026-04-02T10:01:48.179Z"
     },
+    "1388522889": {
+      "id": 1388522889,
+      "firstName": "⎯͟͟͞͞𝙏𝙞̷𝙧𝙭𝙯𝙮✘𝙥𝙖𝙧𝙠𝙚𝙧͢ᯭ || 𝐓𝟓",
+      "lastName": "",
+      "username": "",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-30T14:40:25.737Z",
+      "updatedAt": "2026-04-30T14:40:25.737Z"
+    },
     "1402049962": {
       "id": 1402049962,
       "firstName": "I'm Karz Official",
@@ -5249,7 +5261,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-30T13:36:00.017Z",
+    "updatedAt": "2026-04-30T14:40:25.737Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
