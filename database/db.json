@@ -3491,6 +3491,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-30T04:18:44.095Z",
       "updatedAt": "2026-04-30T04:18:44.095Z"
+    },
+    "8523682811": {
+      "id": 8523682811,
+      "firstName": "𝜴𝜮𝑳𝑳𝑺𝜯𝜮𝑪𝑼 (00:00)",
+      "lastName": "",
+      "username": "sustttttttt",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-30T04:20:00.248Z",
+      "updatedAt": "2026-04-30T04:20:00.248Z"
     }
   },
   "botTokens": {
@@ -5225,7 +5237,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-30T04:18:44.095Z",
+    "updatedAt": "2026-04-30T04:20:00.248Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
