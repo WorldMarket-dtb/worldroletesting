@@ -3467,6 +3467,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-30T03:04:40.079Z",
       "updatedAt": "2026-04-30T03:04:40.079Z"
+    },
+    "7769799791": {
+      "id": 7769799791,
+      "firstName": "𝐑𝐄𝐀𝐋 𝐙𝐘𝐐𝐗𝐙 𝐓𝟓!",
+      "lastName": "",
+      "username": "rnzfz",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-30T03:52:53.456Z",
+      "updatedAt": "2026-04-30T03:52:53.456Z"
     }
   },
   "botTokens": {
@@ -5201,7 +5213,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-30T03:04:40.079Z",
+    "updatedAt": "2026-04-30T03:52:53.456Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
