@@ -474,11 +474,11 @@
       "lastName": "!×͜×! 𝘽𝙍𝙄𝘼𝙉𝙕 (⩇⩇:⩇⩇)",
       "username": "BrianzNight",
       "createdAt": "2026-04-12T13:29:18.233Z",
-      "role": "owner",
-      "tokenQuota": 8,
+      "role": null,
+      "tokenQuota": 0,
       "tokensUsed": 0,
-      "tokensAvailable": 8,
-      "updatedAt": "2026-04-26T10:23:38.512Z"
+      "tokensAvailable": 0,
+      "updatedAt": "2026-04-30T07:31:18.639Z"
     },
     "1869797810": {
       "id": 1869797810,
@@ -5249,7 +5249,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-30T07:29:08.133Z",
+    "updatedAt": "2026-04-30T07:31:18.639Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
