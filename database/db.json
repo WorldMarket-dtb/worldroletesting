@@ -3503,6 +3503,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-04-30T04:20:00.248Z",
       "updatedAt": "2026-04-30T04:20:00.248Z"
+    },
+    "6823145514": {
+      "id": 6823145514,
+      "firstName": "⏤͟͟͞͞𝐒𝐓𝐑 ϟ 𝘾𝙝𝙚𝙡𝙡𝙤𝙬𝙬77",
+      "lastName": "",
+      "username": "xvychello77",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-30T06:23:01.169Z",
+      "updatedAt": "2026-04-30T06:23:01.170Z"
     }
   },
   "botTokens": {
@@ -5237,7 +5249,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-04-30T04:20:00.248Z",
+    "updatedAt": "2026-04-30T06:23:01.170Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
