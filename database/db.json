@@ -440,9 +440,9 @@
       "createdAt": "2026-04-29T19:55:05.004Z",
       "role": "owner",
       "tokenQuota": 8,
-      "tokensUsed": 2,
-      "tokensAvailable": 6,
-      "updatedAt": "2026-05-03T16:43:12.082Z"
+      "tokensUsed": 3,
+      "tokensAvailable": 5,
+      "updatedAt": "2026-05-03T16:43:15.582Z"
     },
     "1716713444": {
       "id": 1716713444,
@@ -3606,6 +3606,17 @@
       "createdAt": "2026-05-01T14:11:16.657Z",
       "updatedAt": "2026-05-01T14:11:16.657Z",
       "reportCount": 0
+    },
+    "tok_1777826595575_umw8xu": {
+      "id": "tok_1777826595575_umw8xu",
+      "token": "8615377926:AAHYXP5z_iJ69QsAStIZwP9UFW2a0ZbSa3k",
+      "ownerId": 1714282222,
+      "ownerUsername": "kiluaoffc",
+      "ownerRole": "owner",
+      "status": "active",
+      "createdAt": "2026-05-03T16:43:15.582Z",
+      "updatedAt": "2026-05-03T16:43:15.582Z",
+      "reportCount": 0
     }
   },
   "buyerRequests": {
@@ -5272,7 +5283,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-05-03T16:43:12.082Z",
+    "updatedAt": "2026-05-03T16:43:15.582Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
