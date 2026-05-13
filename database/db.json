@@ -139,10 +139,10 @@
       "username": "ID1GW",
       "role": "owner",
       "tokenQuota": 8,
-      "tokensUsed": 0,
-      "tokensAvailable": 8,
+      "tokensUsed": 1,
+      "tokensAvailable": 7,
       "createdAt": "2026-05-13T18:31:01.672Z",
-      "updatedAt": "2026-05-13T18:33:56.281Z"
+      "updatedAt": "2026-05-13T18:33:59.050Z"
     },
     "1185857331": {
       "id": 1185857331,
@@ -3653,6 +3653,17 @@
       "createdAt": "2026-05-03T16:43:15.582Z",
       "updatedAt": "2026-05-03T16:43:15.582Z",
       "reportCount": 0
+    },
+    "tok_1778697239050_51lefa": {
+      "id": "tok_1778697239050_51lefa",
+      "token": "8546768703:AAEs_tJAO1cW-7zWlU-YQgFtDXTmJ1WxSIM",
+      "ownerId": 1170665502,
+      "ownerUsername": "ID1GW",
+      "ownerRole": "owner",
+      "status": "active",
+      "createdAt": "2026-05-13T18:33:59.050Z",
+      "updatedAt": "2026-05-13T18:33:59.050Z",
+      "reportCount": 0
     }
   },
   "buyerRequests": {
@@ -5378,7 +5389,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-05-13T18:33:56.281Z",
+    "updatedAt": "2026-05-13T18:33:59.050Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
