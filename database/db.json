@@ -5195,7 +5195,7 @@
       "caption": "",
       "status": "approved",
       "createdAt": "2026-05-13T18:29:01.749Z",
-      "updatedAt": "2026-05-13T18:29:18.660Z",
+      "updatedAt": "2026-05-13T18:30:40.544Z",
       "approvedBy": 6346849956,
       "approvedByUsername": "ziperr2",
       "finalPeriod": "permanent",
@@ -5224,7 +5224,7 @@
           "groupName": "PT - Partner otax",
           "chatId": -1003908906743,
           "inviteLink": "https://t.me/+qy7eZZAp6043MTI1",
-          "status": "active",
+          "status": "joined",
           "createdAt": "2026-05-13T18:29:17.382Z",
           "expiresAt": null
         }
@@ -5354,7 +5354,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-05-13T18:29:45.569Z",
+    "updatedAt": "2026-05-13T18:30:40.544Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
@@ -6284,9 +6284,13 @@
       "groupName": "PT - Partner otax",
       "chatId": -1003908906743,
       "inviteLink": "https://t.me/+qy7eZZAp6043MTI1",
-      "status": "active",
+      "status": "joined",
       "createdAt": "2026-05-13T18:29:17.382Z",
-      "expiresAt": null
+      "expiresAt": null,
+      "joinedAt": "2026-05-13T18:30:40.543Z",
+      "usedByUserId": 1170665502,
+      "usedByUsername": "ID1GW",
+      "revokedAt": "2026-05-13T18:30:40.544Z"
     }
   }
 }
