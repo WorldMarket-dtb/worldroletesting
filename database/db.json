@@ -5193,9 +5193,13 @@
       "requestedPeriod": "permanent",
       "photoFileId": "AgACAgUAAxkBAAMSagTCv0KK3DJRMurpN-tgJ7N9JKEAAnYPaxt-7ChUkkVOHcP20fIBAAMCAAN3AAM7BA",
       "caption": "",
-      "status": "pending",
+      "status": "approved",
       "createdAt": "2026-05-13T18:29:01.749Z",
-      "updatedAt": "2026-05-13T18:29:01.749Z"
+      "updatedAt": "2026-05-13T18:29:14.489Z",
+      "approvedBy": 6346849956,
+      "approvedByUsername": "ziperr2",
+      "finalPeriod": "permanent",
+      "expiresAt": null
     }
   },
   "reports": [
@@ -5321,7 +5325,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-05-13T18:29:01.749Z",
+    "updatedAt": "2026-05-13T18:29:14.489Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
