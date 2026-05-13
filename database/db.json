@@ -5195,11 +5195,40 @@
       "caption": "",
       "status": "approved",
       "createdAt": "2026-05-13T18:29:01.749Z",
-      "updatedAt": "2026-05-13T18:29:14.489Z",
+      "updatedAt": "2026-05-13T18:29:18.660Z",
       "approvedBy": 6346849956,
       "approvedByUsername": "ziperr2",
       "finalPeriod": "permanent",
-      "expiresAt": null
+      "expiresAt": null,
+      "inviteLinks": [
+        {
+          "role": "partner",
+          "groupName": "FULLUP - Full Up otax",
+          "chatId": -1003908906743,
+          "inviteLink": "https://t.me/+M0fHqxQJ1HY5ODc1",
+          "status": "active",
+          "createdAt": "2026-05-13T18:29:16.673Z",
+          "expiresAt": null
+        },
+        {
+          "role": "partner",
+          "groupName": "RESELLER - Reseller otax",
+          "chatId": -1003908906743,
+          "inviteLink": "https://t.me/+fa7bvk7yI8tmZTJl",
+          "status": "active",
+          "createdAt": "2026-05-13T18:29:17.021Z",
+          "expiresAt": null
+        },
+        {
+          "role": "partner",
+          "groupName": "PT - Partner otax",
+          "chatId": -1003908906743,
+          "inviteLink": "https://t.me/+qy7eZZAp6043MTI1",
+          "status": "active",
+          "createdAt": "2026-05-13T18:29:17.382Z",
+          "expiresAt": null
+        }
+      ]
     }
   },
   "reports": [
@@ -5325,7 +5354,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-05-13T18:29:14.489Z",
+    "updatedAt": "2026-05-13T18:29:18.660Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
@@ -6219,6 +6248,45 @@
       "usedByUserId": 7739210317,
       "usedByUsername": "kiluastr1",
       "revokedAt": "2026-04-29T22:30:50.895Z"
+    },
+    "https://t.me/+M0fHqxQJ1HY5ODc1": {
+      "requestId": "1778696940114",
+      "requesterId": 6346849956,
+      "requesterUsername": "ziperr2",
+      "buyerUsername": "ID1GW",
+      "role": "partner",
+      "groupName": "FULLUP - Full Up otax",
+      "chatId": -1003908906743,
+      "inviteLink": "https://t.me/+M0fHqxQJ1HY5ODc1",
+      "status": "active",
+      "createdAt": "2026-05-13T18:29:16.673Z",
+      "expiresAt": null
+    },
+    "https://t.me/+fa7bvk7yI8tmZTJl": {
+      "requestId": "1778696940114",
+      "requesterId": 6346849956,
+      "requesterUsername": "ziperr2",
+      "buyerUsername": "ID1GW",
+      "role": "partner",
+      "groupName": "RESELLER - Reseller otax",
+      "chatId": -1003908906743,
+      "inviteLink": "https://t.me/+fa7bvk7yI8tmZTJl",
+      "status": "active",
+      "createdAt": "2026-05-13T18:29:17.021Z",
+      "expiresAt": null
+    },
+    "https://t.me/+qy7eZZAp6043MTI1": {
+      "requestId": "1778696940114",
+      "requesterId": 6346849956,
+      "requesterUsername": "ziperr2",
+      "buyerUsername": "ID1GW",
+      "role": "partner",
+      "groupName": "PT - Partner otax",
+      "chatId": -1003908906743,
+      "inviteLink": "https://t.me/+qy7eZZAp6043MTI1",
+      "status": "active",
+      "createdAt": "2026-05-13T18:29:17.382Z",
+      "expiresAt": null
     }
   }
 }
