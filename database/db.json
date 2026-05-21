@@ -3566,15 +3566,15 @@
     },
     "8377761262": {
       "id": 8377761262,
-      "firstName": "",
+      "firstName": "𝙗𝙞𝙯𝙯𝙯 #Cecília 🏅",
       "lastName": "",
-      "username": "",
+      "username": "bizzstore225",
       "createdAt": "2026-05-21T04:38:49.995Z",
       "role": "owner",
       "tokenQuota": 8,
       "tokensUsed": 0,
       "tokensAvailable": 8,
-      "updatedAt": "2026-05-21T04:38:49.996Z"
+      "updatedAt": "2026-05-21T04:38:56.313Z"
     }
   },
   "botTokens": {
@@ -5401,7 +5401,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-05-21T04:38:49.996Z",
+    "updatedAt": "2026-05-21T04:38:56.313Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
