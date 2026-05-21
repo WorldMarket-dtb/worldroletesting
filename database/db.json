@@ -5325,6 +5325,19 @@
       "status": "pending",
       "createdAt": "2026-05-21T06:33:13.733Z",
       "updatedAt": "2026-05-21T06:33:13.733Z"
+    },
+    "1779345200088": {
+      "id": "1779345200088",
+      "requesterId": 8377761262,
+      "requesterUsername": "bizzstore225",
+      "role": "partner",
+      "buyerUsername": "bizzzstore25",
+      "requestedPeriod": "permanent",
+      "photoFileId": "AgACAgUAAxkBAAMWag6m12yooKC1wMiQdjfV04-MtMUAAkUQaxvVBXBU0La12zEuFt8BAAMCAAN3AAM7BA",
+      "caption": "",
+      "status": "pending",
+      "createdAt": "2026-05-21T06:33:21.327Z",
+      "updatedAt": "2026-05-21T06:33:21.327Z"
     }
   },
   "reports": [
@@ -5450,7 +5463,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-05-21T06:33:17.644Z",
+    "updatedAt": "2026-05-21T06:33:21.327Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
