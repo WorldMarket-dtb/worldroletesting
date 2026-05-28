@@ -3623,6 +3623,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-05-28T13:59:06.719Z",
       "updatedAt": "2026-05-28T13:59:06.719Z"
+    },
+    "7583591178": {
+      "id": 7583591178,
+      "firstName": "⏤ 𝘪́𝘴 𝘟𝘺𝘳𝘰 𝘊𝘰𝘥𝘦𝘳𝘴.𝘋𝘦𝘷",
+      "lastName": "",
+      "username": "XyroDigital",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-05-28T13:59:45.927Z",
+      "updatedAt": "2026-05-28T13:59:45.927Z"
     }
   },
   "botTokens": {
@@ -5555,7 +5567,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-05-28T13:59:06.719Z",
+    "updatedAt": "2026-05-28T13:59:45.927Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
