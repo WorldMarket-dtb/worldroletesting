@@ -5402,11 +5402,22 @@
       "caption": "",
       "status": "approved",
       "createdAt": "2026-05-28T13:04:54.458Z",
-      "updatedAt": "2026-05-28T13:05:15.120Z",
+      "updatedAt": "2026-05-28T13:05:18.914Z",
       "approvedBy": 1958123973,
       "approvedByUsername": "FuckYatimm",
       "finalPeriod": "permanent",
-      "expiresAt": null
+      "expiresAt": null,
+      "inviteLinks": [
+        {
+          "role": "full_up",
+          "groupName": "FULLUP - Full Up Flow",
+          "chatId": -1003969119930,
+          "inviteLink": "https://t.me/+kIqFjqeKGNQ5Zjhl",
+          "status": "active",
+          "createdAt": "2026-05-28T13:05:17.640Z",
+          "expiresAt": null
+        }
+      ]
     }
   },
   "reports": [
@@ -5532,7 +5543,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-05-28T13:05:15.120Z",
+    "updatedAt": "2026-05-28T13:05:18.914Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
@@ -6469,6 +6480,19 @@
       "usedByUserId": 1170665502,
       "usedByUsername": "ID1GW",
       "revokedAt": "2026-05-13T18:30:40.544Z"
+    },
+    "https://t.me/+kIqFjqeKGNQ5Zjhl": {
+      "requestId": "1779973493662",
+      "requesterId": 1958123973,
+      "requesterUsername": "FuckYatimm",
+      "buyerUsername": "/deltoken",
+      "role": "full_up",
+      "groupName": "FULLUP - Full Up Flow",
+      "chatId": -1003969119930,
+      "inviteLink": "https://t.me/+kIqFjqeKGNQ5Zjhl",
+      "status": "active",
+      "createdAt": "2026-05-28T13:05:17.640Z",
+      "expiresAt": null
     }
   }
 }
