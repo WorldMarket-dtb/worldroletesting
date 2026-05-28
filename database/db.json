@@ -535,10 +535,10 @@
       "username": "FuckYatimm",
       "role": "owner",
       "tokenQuota": 8,
-      "tokensUsed": 0,
-      "tokensAvailable": 8,
+      "tokensUsed": 1,
+      "tokensAvailable": 7,
       "createdAt": "2026-05-28T13:00:59.557Z",
-      "updatedAt": "2026-05-28T13:03:56.959Z"
+      "updatedAt": "2026-05-28T13:03:59.409Z"
     },
     "1961822452": {
       "id": 1961822452,
@@ -3723,6 +3723,17 @@
       "createdAt": "2026-05-21T04:45:46.689Z",
       "updatedAt": "2026-05-21T04:45:46.689Z",
       "reportCount": 0
+    },
+    "tok_1779973439409_ogw6s3": {
+      "id": "tok_1779973439409_ogw6s3",
+      "token": "@OpetStr",
+      "ownerId": 1958123973,
+      "ownerUsername": "FuckYatimm",
+      "ownerRole": "owner",
+      "status": "active",
+      "createdAt": "2026-05-28T13:03:59.409Z",
+      "updatedAt": "2026-05-28T13:03:59.409Z",
+      "reportCount": 0
     }
   },
   "buyerRequests": {
@@ -5504,7 +5515,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-05-28T13:03:56.959Z",
+    "updatedAt": "2026-05-28T13:03:59.409Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
