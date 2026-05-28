@@ -3635,6 +3635,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-05-28T13:59:45.927Z",
       "updatedAt": "2026-05-28T14:03:18.390Z"
+    },
+    "7051329790": {
+      "id": 7051329790,
+      "firstName": "⏤͟͟͞͞Xv7 || LolipopMD( DEV PAVILIUN & XV7 )",
+      "lastName": "",
+      "username": "LolipopMD2",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-05-28T14:56:26.667Z",
+      "updatedAt": "2026-05-28T14:56:26.667Z"
     }
   },
   "botTokens": {
@@ -5567,7 +5579,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-05-28T14:03:18.390Z",
+    "updatedAt": "2026-05-28T14:56:26.667Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
