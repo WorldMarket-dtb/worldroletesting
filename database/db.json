@@ -528,6 +528,18 @@
       "createdAt": "2026-04-02T09:14:11.122Z",
       "updatedAt": "2026-04-02T09:39:39.347Z"
     },
+    "1958123973": {
+      "id": 1958123973,
+      "firstName": "𝑶𝒎 𝑿𝒚𝒓𝒐 - 𝑴𝒅𝑭𝒐𝒖𝒓",
+      "lastName": "",
+      "username": "FuckYatimm",
+      "role": "owner",
+      "tokenQuota": 8,
+      "tokensUsed": 0,
+      "tokensAvailable": 8,
+      "createdAt": "2026-05-28T13:00:59.557Z",
+      "updatedAt": "2026-05-28T13:00:59.557Z"
+    },
     "1961822452": {
       "id": 1961822452,
       "firstName": "Shiki Jembod",
@@ -5492,7 +5504,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-05-28T13:00:55.554Z",
+    "updatedAt": "2026-05-28T13:00:59.557Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
