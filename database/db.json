@@ -5400,9 +5400,13 @@
       "requestedPeriod": "permanent",
       "photoFileId": "AgACAgUAAxkBAAMQahg9IiE7_qER8loESrT6SZY1dRwAAlIQaxt5gsFUBqnL83kwW4wBAAMCAAN5AAM7BA",
       "caption": "",
-      "status": "pending",
+      "status": "approved",
       "createdAt": "2026-05-28T13:04:54.458Z",
-      "updatedAt": "2026-05-28T13:04:54.458Z"
+      "updatedAt": "2026-05-28T13:05:15.120Z",
+      "approvedBy": 1958123973,
+      "approvedByUsername": "FuckYatimm",
+      "finalPeriod": "permanent",
+      "expiresAt": null
     }
   },
   "reports": [
@@ -5528,7 +5532,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-05-28T13:04:54.458Z",
+    "updatedAt": "2026-05-28T13:05:15.120Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
