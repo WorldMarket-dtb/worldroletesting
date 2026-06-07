@@ -5528,6 +5528,19 @@
       "status": "pending",
       "createdAt": "2026-06-07T00:01:45.310Z",
       "updatedAt": "2026-06-07T00:01:45.310Z"
+    },
+    "1780790566572": {
+      "id": "1780790566572",
+      "requesterId": 5649117518,
+      "requesterUsername": "OwlaSenpai",
+      "role": "reseller",
+      "buyerUsername": "Mmmpoyu",
+      "requestedPeriod": "permanent",
+      "photoFileId": "AgACAgUAAxkBAANEaiS0yeqwi-8w0t7WtiuMu0GimNIAAlYPaxtTSihVmheGl94emycBAAMCAAN3AAM7BA",
+      "caption": "",
+      "status": "pending",
+      "createdAt": "2026-06-07T00:02:47.759Z",
+      "updatedAt": "2026-06-07T00:02:47.759Z"
     }
   },
   "reports": [
@@ -5653,7 +5666,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-06-07T00:02:43.675Z",
+    "updatedAt": "2026-06-07T00:02:47.759Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
