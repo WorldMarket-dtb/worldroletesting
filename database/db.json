@@ -3674,15 +3674,15 @@
     },
     "8226192370": {
       "id": 8226192370,
-      "firstName": "",
+      "firstName": "ᯓ𝘇𝗶𝗽𝗲𝗿¿𝟐 Ꮰ",
       "lastName": "",
-      "username": "",
+      "username": "ziperr22",
       "createdAt": "2026-06-12T13:26:31.795Z",
       "role": "owner",
       "tokenQuota": 8,
       "tokensUsed": 0,
       "tokensAvailable": 8,
-      "updatedAt": "2026-06-12T13:26:31.795Z"
+      "updatedAt": "2026-06-12T13:26:41.999Z"
     }
   },
   "botTokens": {
@@ -5678,7 +5678,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-06-12T13:26:31.796Z",
+    "updatedAt": "2026-06-12T13:26:41.999Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
