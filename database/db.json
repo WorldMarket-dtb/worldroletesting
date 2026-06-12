@@ -5625,9 +5625,11 @@
       "requestedPeriod": "permanent",
       "photoFileId": "AgACAgUAAxkBAAMnaiwKCziRDFseXX1vIzMF6ZlY3TYAApURaxuNW2BVHuZ6nfTRvSgBAAMCAAN3AAM8BA",
       "caption": "",
-      "status": "pending",
+      "status": "rejected",
       "createdAt": "2026-06-12T13:31:20.821Z",
-      "updatedAt": "2026-06-12T13:31:20.821Z"
+      "updatedAt": "2026-06-12T13:31:40.883Z",
+      "rejectedBy": 1165789685,
+      "rejectedByUsername": "tristanalways2"
     }
   },
   "reports": [
@@ -5753,7 +5755,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-06-12T13:31:25.815Z",
+    "updatedAt": "2026-06-12T13:31:40.883Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
