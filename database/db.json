@@ -5665,9 +5665,13 @@
       "requestedPeriod": "permanent",
       "photoFileId": "AgACAgUAAxkBAAM_ajK68dqqfnaILv8ohgoy0IKIVaoAAqkPaxt6d5lVjezskQobzowBAAMCAAN3AAM8BA",
       "caption": "",
-      "status": "pending",
+      "status": "approved",
       "createdAt": "2026-06-17T15:19:47.989Z",
-      "updatedAt": "2026-06-17T15:19:47.989Z"
+      "updatedAt": "2026-06-17T15:20:04.919Z",
+      "approvedBy": 5649117518,
+      "approvedByUsername": "OwlaSenpai",
+      "finalPeriod": "permanent",
+      "expiresAt": null
     }
   },
   "reports": [
@@ -5793,7 +5797,7 @@
   },
   "meta": {
     "createdAt": "2026-04-01T17:53:06.984Z",
-    "updatedAt": "2026-06-17T15:19:47.989Z",
+    "updatedAt": "2026-06-17T15:20:04.919Z",
     "autoInitialized": true,
     "repo": "WorldMarket-dtb/worldroletesting",
     "dbPath": "database/db.json"
